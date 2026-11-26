@@ -1,0 +1,13 @@
+Step13Types.lean:8:8: warning: declaration uses `sorry`
+STEP13_DECL_KIND DurfeeCCS.p_one theorem DurfeeCCS.Degree
+DurfeeCCS.p_one (n : ℕ) : DurfeeCCS.p n 1 = n
+STEP13_DECL_KIND Step13Test.kernelChecked theorem _stdin
+Step13Test.kernelChecked : True
+STEP13_DECL_KIND Step13Test.unsafeProof theorem _stdin
+Step13Test.unsafeProof : False
+STEP13_DECL_KIND Step13Test.placeholderProof theorem _stdin
+Step13Test.placeholderProof : False
+STEP13_DECL_KIND Step13Test.uninhabitedLabel other _stdin
+Step13Test.uninhabitedLabel : Prop
+Step13Types.lean:38:0: error: unknown constant 'Step13Test.missingProof'
+Step13Types.lean:39:7: error(lean.unknownIdentifier): Unknown identifier `Step13Test.missingProof`

@@ -1,0 +1,7 @@
+DurfeeCCS.p_one: pass
+Step13Test.kernelChecked: pass
+Step13Test.unsafeProof: fail
+Step13Test.placeholderProof: fail
+Step13Test.uninhabitedLabel: fail
+Step13Test.missingProof: fail
+Omitted manifest row: rejected

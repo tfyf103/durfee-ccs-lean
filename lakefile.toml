@@ -1,0 +1,12 @@
+name = "durfee_ccs"
+version = "0.1.0"
+defaultTargets = ["DurfeeCCS.ReviewAll"]
+moreLeanArgs = ["-s", "131072"]
+
+[[lean_lib]]
+name = "DurfeeCCS"
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4.git"
+rev = "fc4f59e577feb1a4956671bc04ac18aaaf8cd842"

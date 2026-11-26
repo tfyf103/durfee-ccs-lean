@@ -1,0 +1,313 @@
+﻿id	reviewer_pages	checks	sha256_fields_1_to_10
+F-part	1–29	回读原文定义、变量域、约定与定位。	4f0a928ca32e138692cf146f98d09aa8f722a7f25fa917b87676f4d4d768be4d
+F-poly	1–29	回读原文定义、变量域、约定与定位。	d1c44ace70dfab5d3c9ef17f68d11cade5ede24b7e6c3dc003a33cf023889d68
+F-degree	1–29	回读原文论断、适用域、结论及定位。	6cc4452a92805ff3734285a7d9e0c9db71861c944d60a3f8a1f9e0931a4c7910
+F-histCCS	1–29	回读历史叙述、作者、范围及其文献定位。	6e9464e4ed8d191dff056cd22c9a133ce027f701c5986251b70f8d501dd70a2f
+C1.1	1–29	∀n≥1；全部复零点实。	2d71d4391cb119d26beb782b914a8056ce2b116208f5c0730a061c43f2b255f3
+F-histLimits	1–29	回读历史叙述、作者、范围及其文献定位。	dfe4bae75d9cb84f4efb70431025abfdbb56ab725ad75a31784e0e77703d133d
+F-histRect	1–29	回读历史叙述、作者、范围及其文献定位。	45d393d4f6601ffa66591a73c81333b20c2b7d16f79dc4c815f900630efca31e
+F-histWorkshop	1–29	回读历史叙述、作者、范围及其文献定位。	24fb8f543e2bff410b2791e1215eb590baab0191c0b8cf234d7a3509cf7c8544
+R1.2	1–29	复核第 2 页全部根的符号、重数与范围，以及第 54 页 Z-mainCombine 汇总大小 n 的直接证明。	6a49c3c43613b5f061e354660ac7f79030d9db257ff91cbdaea7e8ba79f660e3
+F-newton	1–29	回读文中用到的数学结果、假设、归一化或引文位置。	4c0b825b216f89f8e965beba0775f500224843bad00dc728e343c121701e7f44
+F-logconc	1–29	回读原文论断、适用域、结论及定位。	6b38f950421b33c75041595d8ed16caef97e1cb37555ddf017a8c2c50359315b
+F-law	1–29	回读原文定义、变量域、约定与定位。	fda0653a744e9bf5f827c795b4bd8ebc11b031cc99f7b4b7b7ba76bd67d2ce93
+R1.3	1–29	非零根 −r_j，r_j>0；独立 Bernoulli 成功率 1/(1+r_j)；同分布于 1+Σξ_j；均值 1+Σ1/(1+r_j)；方差 Σ r_j/(1+r_j)^2。m=1 为空和。	6085893c0e952ae4e3d8925146b5bee3bc5a5920980383b55f435ddf6da50bfc
+F-pgf	1–29	回读原文论断、适用域、结论及定位。	4b846e15efb1651cd4540b7b2ab550b12d28bfae82afd95755a329b5b4829830
+F-pitman	1–29	回读文中用到的数学结果、假设、归一化或引文位置。	85b36ddb0aae8b75574beddf72a1cc75cb0c5ec669e94c0251ff71f76dffe485
+F-clt	1–29	回读原文论断、适用域、结论及定位。	9222592d19c21338513e9b006a0f63c30353728b50d0d85f14005dbfbb84350d
+F-llt	1–29	回读原文论断、适用域、结论及定位。	54cdb2fb28c701f7bfb641f5481f64d22796490aa3e497f6adec110da35f6f5d
+F-mode	1–29	回读第2页原文 within distance 1；未印符号。拟证严格界并推出弱界，均待形式化。	3b18232fb6bb2ff5ad3630236d7fdfb9c36abd8d949af1d6946b1d6ebd12d677
+F-coeff	1–29	回读原文定义、变量域、约定与定位。	eb3db2722fc7ee92d4275fda9d4d7b8754c343d58ecdd35077c00c00cfb8371f
+F-branch	1–29	回读原文定义、变量域、约定与定位。	c52ee228179e568affda12436cbbc01f5c8e33079c5f32c525a06a95088cbbe9
+F-poch	1–29	回读原文定义、变量域、约定与定位。	c9d66bb6ededd80855fc7245569e743ce380839fa1165787014526593bca6d40
+F-durfeeBij	1–29	回读文中用到的数学结果、假设、归一化或引文位置。	cce5788d70b26913cc7ba55b74ded22263de95bd2cf0837956220a4c46f62d7b
+E01	1–29	F 的两种展开+系数公式；|q|<1，x∈ℂ，n,d≥0，负次系数零，D₀=1。	20030507432c079aa3ef951399e833f1ad198da8cd1df353c87278d3c22223c2
+F-euler	1–29	回读文中用到的数学结果、假设、归一化或引文位置。	5b4ff7aa0b1ac5286193250adf65c6885533391410b0646d302b6771642416f7
+F-ct	1–29	回读原文论断、适用域、结论及定位。	1e2229e400d172a17bbe75e7455cfec0a90704154ecbe8e2e2c6e4f03fa1920c
+E02	1–29	所有实r、θ，Reζ>0；j≥0；复指数 ±iθ。	170e1d623c16299b1835b84504cccc3da0d993d5559ff0dff1f444ed0b095fc8
+E03	1–29	r>0，Reζ>0；−π至π，1/(2π)角平均。	8d7298aa30586b5a0d30ff6e84eb810921bd965c9f113a21f2309e5f89004b87
+E04	1–29	n≥0，r实，u>0；−π至π，e^{n(u+iv)} F(−r²,e^{−u−iv})。	6becdebf654b7531bc306d73cc589d0e067d668ad2e9ce71c6f89c946fecdae5
+F-logprod	1–29	回读原文论断、适用域、结论及定位。	f90ce105fe7999ac339ea4894f2c44950edb3d3906d7443de13d2ab559a9283e
+F-dilog	1–29	回读原文定义、变量域、约定与定位。	dec2cf74941e636947decc5984ba67493bdc7e107732a752ec49486c680e1451
+E05	1–29	两条割线域不同；z∉[1,∞) 与 z∉[0,∞)；主支 log。	7e62709cedca3d1c57ff1f0db76c51855844ec15b135bbbe119156ceadea21ac
+E06	1–29	−1≤r≤1、θ实，两个 −Li₂ 项，辐角 e^{±iθ}。	c6e9071aef196130a53f62463a1010951f8720860b9fc241e683beaea9f0b982
+E07	1–29	所有 r>0；s=principal sqrt(−2Li₂(−ir))=a+ib。	9a058f378ee38359ed7ce557a8757e0d54a71cf363be9091568dbf8aed61a65a
+F-quadrant	1–29	回读原文论断、适用域、结论及定位。	fee38866bd4208b391ae85b8579569c44406e032e3c9f06c993ba724a7da8ec0
+E08	1–29	M 分母 2πn√r，exp(2a√n)，相位主项2b√n−π/4+arg s+(arctan r)/2，n≥1、r>0。	33cd0ecf73853cf152fda683e022975d06d124f173bc5647051b985a1de10d23
+F-contphase	1–29	回读原文论断、适用域、结论及定位。	577ad8eb937f0137f3d5b69e7aac892e1b067d9713d9f3ec56e5971bde4d8fd1
+E09	1–29	Iν/Jν级数 k≥0，ν=0,1,2。	329de568c2640820891ec5004ef8cc2b80f8d52f9796dd94fb4ec87fae04f0d9
+F-besselDer	1–29	回读原文论断、适用域、结论及定位。	9b377759cecb96df39fa3f3718e11bb28e72c050272b92ae4ad8dec7cc05a5a0
+E10	1–29	I₀ 积分0至π，I₁和I₂积−1至1；I₂前因子z²/(3π)。	9b3c69233e3243c9d8455495a1083fc97aaf1c01447345a3468c4552cf1e66b7
+F-nemes	1–29	回读文中用到的数学结果、假设、归一化或引文位置。	d3186ae6cceea64a7e845f75e4fe63c3340fde355284df2de6c07582edab983a
+E11	1–29	x>0、ν=0,1，误差≤|4ν²−1|/(8x)。	12bdf422eee98b88e88cfd0a2fe50a5eed68d96ad4ad45ad598323194f4f5f10
+F-theta	1–29	回读原文定义、变量域、约定与定位。	6afaa607a16dd004bc5bd9b51367806d785156ee343e2c1b4b496b5ab13aea61
+E12	1–29	ζ实部正，z≠0，w∈ℂ；Jacobi两式，exp((w+2πij)²/(2ζ))，j整数。	9864cfb47ae127cf8179b843693268b5e5adb7a330e784867947aab39fd965c3
+E13	1–29	sqrt(2π/ζ)exp(ζ/24−π²/(6ζ))E(4π²/ζ)，Reζ>0。	8aa2c8e6379a801630ac68bf6b99dd85d9a03900d4842a6f3e11cb93d4addb0d
+F-twoColor	1–29	回读原文定义、变量域、约定与定位。	cf563be7691ecdac847096fcddd207509e18088286aad5b1ddd43231b27a2874
+F-dedekind	1–29	回读原文定义、变量域、约定与定位。	d62b29c9ad86f240c85984a4b3ffb2bc4a995892347e3b11831b5ffdd33fe712
+E14	1–29	n≥1，2π/(12n−1)，权Aℓ^(2)(n)/ℓ，I₂(π√(12n−1)/(3ℓ))；绝对收敛。	8271a40f8ed084723ea553ed3d28b41e644aedacc1402274b8062767a2949906
+F-interSign	1–29	回读原文论断、适用域、结论及定位。	a15b67d4bb0a279e7a40b24eb17f520f3508d0bfebec56bba082292c5ed6fccf
+F-B	1–29	回读原文定义、变量域、约定与定位。	568bf026c82a21c5890792ff3826d64b083529f6dcac9ad127b3997bf8e1d7e9
+F-nearRange	1–29	回读原文论断、适用域、结论及定位。	672a70dc709d81931b6afdf65f6cd8bed0fd51c37dd72896bef20430f386c471
+R3.1	1–29	n∈ℕ≥1，0<r≤1/40，σ=√(nr)≥1，Δ=σ³/n≤1；模号内 +σ⁴/(2n²)J₂I₂，界 ≤ e^{2σ}B/n。	ee8080c95f991a36bfe2327ff790b84a9cc63d97467568bb6552762b6f046ee9
+F-localL	1–29	回读原文定义、变量域、约定与定位。	e7934ca0e0bcb32bb1c601be08636b498c7a043ee9fd005f3711dbcf548dcedd
+E15	1–29	双和 j≥0、ℓ≥1→关于ℓ单和，分母 2ℓ sinh(ℓζ/2)。	ceb6178faf6291310957b8d68608847328d3d74e7dbc42a1a0753da945111fc8
+F-meanZero	1–29	回读原文论断、适用域、结论及定位。	50a47f6902b643afd4218d3e0feb588216116c79b0d7354258ac2a2502345148
+E16	1–29	ν=0,2，d≥0，(−1)^d(x/2)^{4d+2ν}/(d!(d+ν)!(2d+ν)!)。	cf9777fdbd84b886b96304006882a51ef2f2cda7bf214e1309bc975f69512ee1
+F-meanexp	1–29	回读原文论断、适用域、结论及定位。	92e9590e41ec3f2ff442efeb4452069b8da692ea4e1a337a25c77ea72712927d
+F-residue	1–29	回读第8页 j≥2 的逆变换、一般参数及原书写法 nu=σ；第17页可复用。	699a72ddec83aadef00a015f158ab9d667c8dd4e7127eed10393eb7e1c07fbf1
+E17	1–29	左角平均和逆变换全实轴；结果 σ/n(J₀I₁−J₁I₀)−σ⁴/(2n²)J₂I₂。	c94b38ee80ca9df4f7ecb6bcb55268c6eb31afa41d6b3a88a95f16391c3f4282
+E18	1–29	4项域 |v|≤4u，4u<|v|≤π，|v|>π，|v|>4u；乘 e^σ/(2π)。	ea38da1f9dd37539b053b6180bea961cf5ad94bec08fd250d8a9eab480b73258
+E19	1–29	|v|≤π；ρ₁≤0.16r|ζ||cosθ|；ρ₂<0.513Δ，|L−L₀|<1.02Δ。	21de90c477a08850ab5db661651c7ed073f95818331ed505394fa67c0bf75f0d
+F-smallArc	1–29	回读原文论断、适用域、结论及定位。	3acbfdbbd00bf36096619802eed17e06b82c88fd497d7b9c67b0ab44309d69cb
+E20	1–29	全复z；|exp z−1|≤|z|e^max、|exp z−1−z|≤|z|²/2·e^max。	06360f4f52567be82aa6a2e3bf39a086fd6ceb45dc6971e9d2e4eff0c3726c86
+F-gauss	1–29	回读原文论断、适用域、结论及定位。	9cfc7c26fb3f915dc9b88dba72279875015e118ee7998239da4a596ae6a8954d
+F-parseval	1–29	对第9页作局部放大核对，印刷符号为 ∥L₀∥₂²≤r²/u。	5ce3893ff4d382daa0f82191fbf95b58c2760d3ef5ecb16e9c3de10515767c2d
+F-nearFour	1–29	回读原文论断、适用域、结论及定位。	357e2a2561e2eab4ea3c4915a1d256eb5ec03f594d79b9ac7640bfc50ff348a1
+R3.2	1–29	k∈ℤ≥1，σ=kπ/2，n≥max(6400,40σ²,3σ³)；Dₙ(−(kπ)^4/(16n²)) 符号 (−1)^k；1≤k≤8 是特例。	06734661fb4d11e0d872d68d7ec7e60b1b46f474148b9bc198df4953e48329f3
+F-signMargin	1–29	回读原文论断、适用域、结论及定位。	45c99a3c38c9cbc90c3c27d65088997a7a75ac8c64791dcad342f61e45e0fa21
+F-Bsmall	1–29	回读原文论断、适用域、结论及定位。	74c5897dc4c5c8a777d43b489372b308d6966d43041c7a46b86eb0c4bf762789
+F-gamma	1–29	回读原文定义、变量域、约定与定位。	3668b9feeabf382803b31f9293d77042cbf218599656acdf68056ed7f72feb94
+R3.3	1–29	0<r≤1；所有θ适用(21)(22)；(24)额外 n≥1、√(nr)≥4π；(25)(26)限|θ|≤π/2，η≥0；(27)全θ、η≥0；π/2<|θ|≤π附加界。	c4813f0bfee36f2bee39397edd91c2271fcadaf17d455142613e350bb5c59ae7
+E21	1–29	∫₀^r log(1−y²+2iy cosθ)dy/y；r=1、cosθ=0可积对数奇点。	4f9671c763e6738d2b6850c62d9bf160cc45374dd94ff8ef7baec76bb034772c
+E22	1–29	实部差 ≥ r²sin²θ/(1+r²)；虚部差 ≥2r(1−cosθ)/(1+r²)。	48dc76b44021bef73d2acca722d7b04464744cabb92b0657b0cffa58adc6de46
+E23	1–29	r≤a²≤r(1+0.282r)，1−0.282r≤ρ≤1，|s|²≥16r/9。	dd9520609beca3eb7f9f8c9a71e4b9467c639ae282458cbfcd81306f20c1e95c
+E24	1–29	κ下界含(1+r²)(1+0.282r)，κ≤1且κ>0.39；ω≥4π、M≥2e^{2ω}/(3πn)。	17309f98a72c9a66157c57254f61848feb213a9f702a2e364d96d7b5b5ef7ce8
+E25	1–29	ψ=1−cosθ；|θ|≤π/2、η≥0，两级≥，最后 γψ。	98e56416a97cc6231cc0ff33a67e25b19e18f7f15403eeb91f68db31a32f22c4
+E26	1–29	Re√g≤a√(1−γψ)，端点 θ=±π/2 取 |θ|<π/2 单侧极限。	933a4cfcc136fa9b8bd9b2a964bf7fb98b8d7a80af286197f9b9ffe7aad03fe9
+E27	1–29	所有 θ、η≥0；间隙≥(η−ρ)²/(1+η²)；π/2<|θ|≤π 再≥1−r/2。	0f6a2489ed7f257a31dd5975ad3eda4b25e47bc1c4555f228d37f73d1e1c8518
+F-singular	1–29	回读原文论断、适用域、结论及定位。	fa41fa5ae3dca62398646ab40f53c21150d34643e87b9b46ea0cb39a2a1579ba
+F-saddleSeries	1–29	回读原文论断、适用域、结论及定位。	7a2c395730b9315c284344b8d42a047034251888a3af1b25735bc0e766f645de
+F-rhokappa	1–29	回读原文论断、适用域、结论及定位。	2e2d0fa08aa754f68bb9ca2df4802bcd1b3992fc4fdd369eb3a87688f5a0c8ae
+E28	1–29	A>0,B≥0, z=(A+iB)²，η≥0；完全平方等式。	2dbca2c8b8e9e3dd12c3f0e212474e6b4f691170b765d46c5c91236dc29790cf
+E29	1–29	sup_{η≥0} (Re z+η Im z)/(1+η²)=A²，最大在 B/A。	8b37e63afa5efab47bbb2ca6f4265cda282fcc09badcf80a9b596947f98cb215
+E30	1–29	对 z=s² 后恰等 (η−ρ)²/(1+η²)。	455aaa20433e337dc2059f1ca351c4620d1760b8b722f1b87dd1f9b5bd0d3474
+M-qdef	1–29	回读原文定义、变量域、约定与定位。	c3dade9a8007e461cd91c9bb671eb50ee53205598f76625bc4b057534f44a592
+M-errdef	1–29	回读p11和p14：r段(0,0.1]、(0.1,1]分别对应两组 γ,C。	4cf9220336f7dd0b130eb429604a0b0b6fb7c9c82503158c20ad672afecd53c7
+R3.4	1–29	n≥6400，0<r≤1，√(nr)≥4π；|Q−M cos Ψ|≤ME(a√n,γ)。	b05474970788233f7b9e09a8a20790e9c26097d08f334eaaaeb8dec1196f5e69
+E31	1–29	R3.4相同，用≤。	2650f36f0259de1b3cee50b3a090450604deca3da2782f94ae869a192c0b3cb8
+E32	1–29	Re 1/π 滤半区 −π/2 至π/2，√g/√n I1(2√(ng))；两端单侧。	1f64d100d5c178fdd85a43b30b4e394b1fd9a6beedc40d7b6c0b0e56f4ce0d1f
+M-loglocal	1–29	回读原文论断、适用域、结论及定位。	225b9f88531b4fa1b43e9b3290bca6a9b95b176e14e809396014916075d5af48
+E33	1–29	0≤ψ≤0.3；第一余项≤2.46ψ²，第二≤0.87ψ。	84f4944e39ce7cde691e41a6995b43330115cbd19f96fd32d38d20eee79bc661
+E34	1–29	I₁ 首积分0至2，参照积分0至∞，Re z>0。	3510229fe0f296a9138415d3098ffb55a83a081e6f63ebb81a48b3cf33a3b5e5
+E35	1–29	Re z>0，|I₁−e^z/√(2πz)|≤(e^{Re z}/√(2π|z|))·3|z|^{3/2}/(4(Re z)^{5/2})。	cb715413b89be227ad62a651f320edba7922742dbac2a05e54b20c7173b5ac62
+E36	1–29	对称两半变量 ψ，含 s^{1/2}e^{2√n s}/(π√(2π)n^{3/4}) 与 ψ^{−1/2}。	657b18b340cdc7ff9a2c58d15558b101810c706849dfd594b991874eb76d4c1f
+M-modelInt	1–29	回读原文论断、适用域、结论及定位。	6e6ec1ebe60fbd7a35a91f5312c5deb581c041ed22a91c0fa286ff03d4a2717c
+E37	1–29	ψ≤0.3、ψ>0.3、[0.3,∞) 三项；原 θ 域为[−π/2,π/2]。	3e90e07e3aa7cf7e42d2ec960b2d56d399d594e231bf578edd9d7b2cd1b20980
+E38	1–29	归一因子=√(2r√n/(π|s|√(1+r²)))≤√(1.5ω/π)。	91c14fd1f311cbfbb311fb2020cc2dd98e1e1252256d85962d23b7d1579ae27e
+M-threeTerms	1–29	回读p16–17三项界。第一项≤；第二项两部分及第三项的最后常数均取<。	f8780a0e1800b5c582ac007b68107b7a189958a7f93aa69100ed6216457a6f4a
+R3.5	1–29	同R3.4域，|Dₙ(−r²)−M cos Ψ|<9M/10（严格）。	ad740e2c397a1d2cf38407df3e90982d8f88e9b90399595cbec76b59e30e1a6e
+M-innerGap	1–29	回读原文定义、变量域、约定与定位。	14c39a09c7b96a322a03a89b28f3ee33736816e40f7009da1cc530d7f24f889f
+M-invLaplace	1–29	回读p8、p17：逐项从j=2使用一般留数式，可跨半径区间调用。	fd0f64f955ef5bab8c6f1da8efc7bf100b584028ec074c616a30e75957401b6b
+E39	1–29	0<r≤1，j≥1；指数2(−1)^{j+1}(ir)^j cos(jθ)/(2j sinh(jζ/2))。	ab425d8d3f6473073d6b54de25d9a84db0f7f81867a2ed8692fd4bd4099234f8
+E40	1–29	以16u划分三项；第二16u≤|v|≤π；第三|v|≥16u；公因子e^ω/(2π)。	ac65e5513907c02bc4b81c1297779161453e9412b8a303fc17c3407cfad4b4de
+E41	1–29	3ω/(4π)∫η=0至16∫θ=−π至π；误差指数与 e^{|L−g/ζ|}−1。	7401aec9768484ea904cb80b44cd0ee8468cfba34219bee7563fca1ea3f7c7d0
+M-parseval	1–29	回读文中用到的数学结果、假设、归一化或引文位置。	2f6f06ee7cf296d236fcf741d7842c35a8707d466a6ad9f97c365094aeee2303
+M-tail16	1–29	回读原文论断、适用域、结论及定位。	3431207e5bde696a1063c48b6f6ab260297ed281cb120887294b6e32e0a15359
+E42	1–29	0<r<1；u/8∫₀∞|f″|；网格(j+1/2)u。	e0ed57af68edf4ce89fa4c361f1c3ff344b363680635422ba2b37b94313ac30d
+E43	1–29	|f″|=(1+η²)r exp(−x)/|1+ir exp(±iθ−(1+iη)x)|²。	c991c5faeb114211f6cc7d5ad0e58e87b4fa102de24e8f94a623207f317a7701
+E44	1–29	0<r<1，误差 ≤u(1+η²)r/[4(1−r)]。	76957eb35483f9f15f851dabff0d2073646546b966e41c24dcadd325fd383893
+M-smallBoxes	1–29	回读原文论断、适用域、结论及定位。	05efa0bb72718d8d87137e065fdc1e4e7b3299d4be691adb245e474b0a3a7583
+M-tab20a	1–29	逐格回读纸面表的区间、端点、表头、数字及严格界。	d51adf9480ec2bfea10412868bd366d7f78b07224870a8376069c728e262b6c0
+M-tab20b	1–29	逐格回读纸面表的区间、端点、表头、数字及严格界。	b45903d0d56cda5c1b316e37918686a509c8266b8ef0c8c0d30f8ac14ea5aa7b
+M-tab20c	1–29	逐格回读纸面表的区间、端点、表头、数字及严格界。	5f57058dab85ad7ea07b80d6e7e8e0b7fa30cd314a3a4b79f681fb65ce81358c
+M-tab20sum	1–29	回读原文论断、适用域、结论及定位。	d88be4d73037c724544365b6521c18d0de56925cc6e893e90ea3a1e04cb17656
+E45	1–29	第2段1/4<r≤1；|η|≤16；0.51+0.69(1+√(1+η²))。	fe5bbe6c1228041ece040dc73aefd7f4de6b1550a945212bd3d5ed45a330e6da
+M-rect	1–29	回读原文论断、适用域、结论及定位。	442325ef61b25a7402f95e86d3594e041279fe153b9c920e5253da2b624c15d4
+M-complement	1–29	回读p21：E*的五个系数、分母及指数，及五区间界和 ω≥40。	448b391d0cec4475a3d51557fb7ed744665b22162ac58ec81fd4d5f1243fe46b
+M-arcSplit	1–29	回读pp21–22：T、Z、O、H、V 的求和端点、奇指标以及 r₀=1 分值。	c70b7a7d6b8b8001f7df679166ec6ddc8987765537e8957c60f227eec845bf1a
+M-dilognum	1–29	回读原文论断、适用域、结论及定位。	3dd19a285b44265bca997e76a24b12d80856550bd942fe5dafa4c476a173915f
+M-arefine	1–29	回读原文论断、适用域、结论及定位。	81a6659ed2e228e7dedff46db2db1d66db6cf21782f327c6e215c572c5a03659
+M-tab22a	1–29	逐格回读纸面表的区间、端点、表头、数字及严格界。	077c87027180dc615edf104fc80fbddfbc6c825e59e636ba005884942ac7455f
+M-tab22b	1–29	逐格回读纸面表的区间、端点、表头、数字及严格界。	2494a14f046d70a6b9ecf5000e0b5f6e838f2b0a84c329b8a7b0473c74e0092a
+M-tab22c	1–29	逐格回读纸面表的区间、端点、表头、数字及严格界。	533e8c75b04e3174fac9c007bafe72106cb17f945716e3310f4f784a703e027f
+M-upperStar	1–29	回读原文论断、适用域、结论及定位。	b18ccb97e23cb4780eff11a384827933af14a4196e76d22449396e10564f4d24
+M-tab23a	1–29	逐格回读纸面表的区间、端点、表头、数字及严格界。	54cd3f323c924365f433a9baf491ed2e0bd231e6e8a19ced8642c6e538bef825
+M-tab23b	1–29	逐格回读纸面表的区间、端点、表头、数字及严格界。	4968afbf7795282d945c3671fe67f704efe500c96b552f78620470b925dda7c1
+M-tab23c	1–29	逐格回读纸面表的区间、端点、表头、数字及严格界。	1adc54616cc316f42a5881ac9438617bc720c8858792758d0e27fec1eeef1872
+M-tab23sum	1–29	回读原文论断、适用域、结论及定位。	f0fb9cc0691fea1961a4fa692509e10b9ad32324180a56541d3942223f3ca487
+M-num	1–29	回读有理包络、系数和数值范围。	346d6edbd140a68d34c21cc6e023d8a76d5511926ee513fd763534d063e1f95f
+E46	1–29	r≥1；s²=(log r+iπ/2)²+π²/3+2Li₂(i/r)。	756adad906981a5b86f671dee40bacd76744f74f86c455b5b3ef7d07db408ac5
+M-phase	1–29	回读原文定义、变量域、约定与定位。	8b03742b19d855b5dcc105ea30771aae895271dd58c6382989f4c770f076c135
+R3.6	1–29	Reζ>0,r≥1；公式(47)；全 p∈ℤ、χ∈ℝ 的(48)；H₀(0)=s²、H₋₁(0)=conj(s²)、H₀″(0)=−2ir/(1+ir)。	e2df91f25c2d7a212b9079d0245eeffab0ec0b3b955bcd8af94d9accae4f3f3b
+E47	1–29	Reζ>0,r≥1；1/(ζE(ζ)^2)，p∈ℤ，∫ℝ e^{-χ²/ζ}/P_{(−1)^{p+1}r^{-1}}dχ。	e434f626c2f01c6c094a3258a187392783b49c2e29f4f4a9f9758fa7014d6e09
+E48	1–29	所有p∈ℤ、χ∈ℝ，实部上界含−χ²/(1+r^{-2})；虚部取绝对值。	6e9c4e47a24a1ff095aecba42111b03400fa3558d71c3c5ed246e7f9babb6e80
+M-reindex	1–29	回读p24：下界对所有θ∈ℝ一致，双重级数对θ∈[−π,π]绝对一致收敛。	0761d7b8fe8a8c20ce57fdf4f9b66bb99597b8ac356c9f6648b7944856d74e1c
+M-phaseDeriv	1–29	回读原文论断、适用域、结论及定位。	da61b63861e3a7b565b99a9422d4ba43762f6bd08645bd4bfddceb9ea1e6d334
+M-phaseValues	1–29	回读原文论断、适用域、结论及定位。	08c28482bff86a2423ca1622fc862349d008291f9a32e5f47a9733b5d79d6962
+M-strictMono	1–29	回读原文论断、适用域、结论及定位。	5ed6851e332e764de40211195ffca0ce857943a2152c2f97fdcd3cfbf7dc2635
+M-blimit	1–29	回读原文论断、适用域、结论及定位。	36242921ede9163c79974269067364c5cd42ea9758ff6a672f86c507db2a9ff7
+E49	1–29	r≥1，b²≥b(1)²>0.68；a²≤(log r)²+π²/3。	a3725dbaec14b87bc3e9828480a0f2cf500e813cf2a2326b87980d50f27bd6e4
+M-mult	1–29	回读原文定义、变量域、约定与定位。	e378cd8cbadd7aa4e1ff71bb09577cf32d8fa303913e4a1bbae26972e51c1731
+E50	1–29	n∈ℕ≥1、I⊂[−π√n/a,π√n/a]，a/(4π²√n)∫_I∫ℝe^{nζ+H_p/ζ}b_p dχdη。	d873ecb3d6b0b71af586a94df0d06faf4577445bdd6f63e0ff50390ce1caa02e
+M-jdef	1–29	回读原文定义、变量域、约定与定位。	570851d5fe1a7f671279f0ba4f59b2ab871a01caf7168dad7a981648e8121e21
+R3.7	1–29	t≥1，0<ρ<1；J=∫₀^{3/2}(1+iη)^{1/2}exp(−t(η−ρ)²/(1+iη))dη；误差指数 −4t、−tρ²、−t(3−2ρ)²/13。	59d2c44a98cf1ac6068290b9c98a9644e879c22b7aab5aa59d324a3cab9af506
+E51	1–29	e^{−t−2itρ} e^{itη}H(η)=(1+iη)^{1/2}e^{−t(η−ρ)²/(1+iη)}。	e4ea63278c9960b7258beca2fea82d8c52d2248c80f3efc6ecac313b57620d34
+M-fourier	1–29	回读文中用到的数学结果、假设、归一化或引文位置。	1201af165f796d6ab2fd38acc03e847da81b460e7949141ce11a63e85d125e67
+E52	1–29	J∞=√(π/t)[1+iρ−1/(2t)−(1+iρ+1/(2t))e^{−4t(1+iρ)}]。	88cfa9202cd114dc6835137085fc55afc519879b737056c15bbf378ef8a46e31
+M-jtails	1–29	回读原文论断、适用域、结论及定位。	b2dd01ab992834e3580eab8b3134b5400791c7b201e8f0173ae54363c9fafbfe
+M-nrange	1–29	回读原文论断、适用域、结论及定位。	b47f93d52fe6209c5ea95dc7d1f59d61933096dbdeafb8243b5fd9e0af1cf69b
+M-prodlog	1–29	回读原文论断、适用域、结论及定位。	59b79e514e5cdb826b4fd318eae28937b939abbc3c160058190b2c370436e4c2
+E53	1–29	|b_p|<2100 (|η|≤8)，<30 (≤3)，<10.9 (≤3/2)；所有p∈ℤ，χ∈ℝ。	5408e3233812cd848c6a344e88447e383d8c807ba8d4b775fb426d6e74dce922
+R3.8	1–29	n≥6400,1≤r≤e·√n；p=0,η∈[0,8] 与 p=−1,η∈[−8,0] 合计距 M cos Ψ 的模严格<0.88M。	fc521c2d9142ba26d3954a679329d4fbcb98949c3ccdffe69e400e999de778ee
+M-conj	1–29	回读原文论断、适用域、结论及定位。	d7d4d4bde7c6af9c9bae2d24999e6bc95891e062109d6aa720e2fce9f578f741
+E54	1–29	η≥0、χ∈ℝ；实部相位 ≤2a√n−a√n(η−ρ)²/(1+η²)−√n r²χ²/[a(1+r²)(1+η²)]。	fb7f989d52f0542a54ce0ebdadb8d9b6cd80247bb353af0a8893374130d8ebfb
+E55	1–29	η∈[0,3/2]，χ∈ℝ；M_n(r)/2·e^{iΨ}·√(a√n/π) J/(1+iρ)。	1189fa353a61553e85fdca39c48021dcd9aa081994946b7e61e9b829937d33e0
+M-mainDerivative	1–29	回读原文论断、适用域、结论及定位。	7b20bd2e2cf34a20ec2473fc059b52048b14324bd45d8bed3efc55f7fe61097f
+E56	1–29	0≤η≤3/2，|χ|≤hχ；(13 kχ a)/(16 r√n)+√(13/4)a/(12√n)+10^{−20}。	89d69e869287c87cea49126025f1c5ab0ecbea5b0c0adb105057291a5cd7fe84
+E57	1–29	|χ|≤hχ∈{3/4,1}；四阶余项≤κ_{hχ} χ^4/r；κ_{3/4}=0.426、κ₁=0.547。	d912f049008508e8772f45b5116401b5719ae4d1e0e02a17d44a93844b1a4147
+M-envelope	1–29	回读原文定义、变量域、约定与定位。	e923e318c21ab1f99910c69e4b3cf6db4f4b4c0b98158ed30e731eb860cc72b5
+E58	1–29	截尾、乘子、四阶误差三项，顺序 Eχ,Emult,E4；下界 z₀ 分母 (13/4)q(1+ε+²)，E4 幂 (13/4)^{7/4}(1+ε+²)^{9/4}。	24aec57a22e889707d5c311b19b375d0284f55d20477aaf3f26d4d355f027ca2
+M-gaussTails	1–29	回读原文论断、适用域、结论及定位。	f90da1674723880df238fbddb95d79ae7ea369a33e8663b583c7202548198903
+L-arcGaussian	30–55	已核对文中论证的位置、假设、结论与主依赖	150ab68f43c63bea9aeb4668351cfa620c8b0b6b337ee2a1644da544d25c2639
+E59	30–55	已核对印刷式号、系数、端点、适用条件	f74bfda50e97779347577943a8e9e7c3b89b87770472549c8e40894a9a86b78e
+E60	30–55	已核对印刷式号、系数、端点、适用条件	15c7fd25f8f8e80f64fa3d9e03547e9626dfee9e6d5d4261125c84662b3d2a41
+L-mainArcBudget	30–55	已核对符号域、函数定义及其使用范围	2126ef0654f068f22329436d39a3f3a06963e09228b47140c0e31d002334cf5f
+L-mainArcRow1	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	c8a348be5deb6a9347999aae6c601666170174593246bc2052d37e193e9846bb
+L-mainArcRow2	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	95239fb28eabab36b27110499f56c4bda80c4d3ac09530dae5417cb2aa52543b
+L-mainArcRow3	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	328c6cbdef916bcc3d812e57822cb6d81f869f1bb1a706cf4643a87f596ddb4b
+L-mainArcRow4	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	cc70f1ba17df26e57f78665fce4761058189e870b63c4acf3bc8dd51a3ad98d5
+L-mainArcRow5	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	f621d681f224b1ec14ce103bd219a0960fa4bb927399899529e6b0570523a3ac
+L-mainArcRow6	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	b80badb879c99efc4fc74be6ed393f8e57c96cd2e6ef2f713d93ba2587986d5e
+L-mainArcRow7	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	21443003656eaba957a74ea45b0825b6d6686b620781edd316182ae255bec521
+L-mainArcRow8	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	1be18c0a0c526ef60b0b3605e665fa997eff76d439c9fb77af97729568894a9b
+L-mainArcRow9	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	3f6f0dd2149c265d49dafea5ba1eca5de7e65f329dfa3189575549fd2f47597c
+L-mainArcUnbounded	30–55	已核对文中论证的位置、假设、结论与主依赖	21d006610d5e50079d8df3adc4ad79decdb63f615fcaf399fd369fcee6a00327
+L-altEndpoints	30–55	已核对计算范围、所验对象与未来证明义务	60f8f287b3fca75097db562f12e6b94dc9f9bb53d1f5a9f5e56cb3bde8fc0be9
+L-mainArcCombine	30–55	已核对文中论证的位置、假设、结论与主依赖	cda91d443eff60b949e30f5240ce2902266195ce1e8b04fc50867feeda9a6ed9
+R3.9	30–55	已核对明示量词、参数域、弱/严格不等号及各分命题	96e5a836f1425df910211e22a3e192accea1aa8d6351a273bd92de26c85f7aae
+L-sj	30–55	已核对符号域、函数定义及其使用范围	5fa225477391fe7dff14d4f8badb4a17cfa4426d8a1fc6b2b9a759fb41f1d519
+E61	30–55	已核对印刷式号、系数、端点、适用条件	2c229df197005dabe236c996af6552aa188145210a6854a605375c9720b25dce
+L-productLog	30–55	已核对文中论证的位置、假设、结论与主依赖	585d58802abafb85e29f5ef7c832428a369f5704e6b762fd325a107375b28db9
+E62	30–55	乘积为零时单列模长，非零时才使用普通实对数	73ce298ecede35c510af3df0982a15a8565e390587baac174798fdf85ac9928c
+L-bjCj	30–55	已核对符号域、函数定义及其使用范围	5492aa2397b6213454cb52e811637f147e4b77017a8fb2302688e87c110e1c28
+E63	30–55	已复核 0≤ε₋、分母正性和 sin(jv/2)=0 时仅取 cⱼ	745b5136004a3488dcf4b6266e633c62a396bee3bfd02ecdc5186a14ed8d818c
+L-grid	30–55	已核对计算范围、所验对象与未来证明义务	f745030fb81e64301afbc7e7f30b396067149bd31de6a4025e44f701fadd147b
+L-gridSmall	30–55	已核对计算范围、所验对象与未来证明义务	7deb6b8dbf55aec27b31cc6abb4e77a47d931c94bedf115ae91f3615b6de4570
+E64	30–55	q₀ 与 q₅,…,q₁₅₉₉；零乘积同 E62	1ff76b4f3938b544826b35d92be7263a952cab8fc3e81595e622ad80572ed967
+L-endpointMono	30–55	已核对文中论证的位置、假设、结论与主依赖	9c97c504f19b504e175055d638b6418a86c04e2dd1fc62e0233600f2c5cd3143
+L-minorArcRow1	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	9d5af82f9f60816ec2d4c5e7075bbe131da892b0a05a117702a188094fa4ce63
+L-minorArcRow2	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	50c2d7bc395421cc0ca0004eebb59a82a344e9a680e8a72ce5e4bc91c71e4e49
+L-minorArcRow3	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	f909e5710a3292c0ce92b7b1a3f30d412c5f68c6340de05a0491a99540030c69
+L-minorArcRow4	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	62ed9c9aa458aa3a68a574727d7a90f48cf3f1297be73cb5efdaf5c20b5a9714
+L-minorArcRow5	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	11b1207de8080c76fc36d359b25550ecef6159df6fd2dceb35ca215754165105
+L-minorArcRow6	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	2fcced4b3718ff5dc78a715cc6938c92abfe4c361f2cdeddd5286cef7146deac
+L-minorArcRow7	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	c3f31bbeca9f1efbf0fa80888d11bb1b5b067a2252a0fd1452dd7930f1dd79fb
+L-minorArcRow8	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	e8787494e1df1e420a12e60fd3b1ebf202f354cad825b7b48c6d487c2fca0bec
+L-minorArcRow9	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	079c59223a50d328d11748e0c89a12495a8901c8c177e941388745c189b43e69
+L-minorArcRow10	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	5d5444e767922fb4be4d4665aa703527e4dd9d3e2ed3dc7b4dd0f24c3dda07a1
+L-minorArcRow11	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	646ffcf9eddc98e9656ec8148f4960026f0c46c5871ca3dc9006b181389770de
+L-minorArcRow12	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	408695cd571b3a653fd419e9e884c52959fcfea9fcb32f0ed0ab0a5f98e637fc
+L-minorArcRow13	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	81f0e731c005aa76075bc5704c180e49a1362a4f8f81575ea7a181e67ee2d937
+L-minorArcRow14	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	51abc45ef7018012bafc9f56716c7e7a2d08c6ccf50809da512e67464fa8ddc8
+L-minorArcRow15	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	3a6a808c28e7e5375a2be36e22397e53a0413f79a09bc5eeaa678a7bdc180663
+L-minorArcRow16	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	61fdd07c17f77ebb763758bf8773c4337c599cfba898a75af4b592e8eaa568f9
+L-minorArcRow17	30–55	逐行对照页图的列、区间开闭、数值及不等式方向；数值、区间也由 PDF 独立抽取逐格数值比较	efa2f0b5588a21d5264a8aef91920ca712b042f19a20327b37c22763a885d483
+L-minorArcTail	30–55	已核对文中论证的位置、假设、结论与主依赖	21c505ba16ba0aca4d052f0465d6d6cf2150988dac796bba2b939d8998c71e96
+R3.10	30–55	非主全部 p 且 η∈[−8,8]；p=0 与 −1 分居反侧半区，严格 <0.002M	231079dbabbbf030ebc5f4bd79d263df1bac52da44783e46c66eb364816ab499
+L-gaussianWeights	30–55	已核对文中论证的位置、假设、结论与主依赖	4bbc4c457641c0b6cb2899e60a2b0b0d36bc7819c1f5b2ac4ad00c28eb412d6e
+E65	30–55	已复核 ζ=(a/√n)(1+iη)、可测域及反侧平移 Gaussian	f3b536098a1109cc46a8b94b93019650aa9ee56a038812563efbe2969b621718
+L-betaRoot	30–55	已核对符号域、函数定义及其使用范围	aec87f14bdb1dcf967572ffd06494a7412245ddbc4875fc6dd1290819a3b460e
+L-modeGap	30–55	已核对文中论证的位置、假设、结论与主依赖	d3a6a0cb8670555fdcdba02b3aaec21a2396d8a68a057c15bac476537558d5b0
+L-modeRow1	30–55	逐行对照页图的列、区间开闭、数值及不等式方向	be2f7385e1676b3ca50956b371fb1e196ec3292f83de5f431481fbf0411e9107
+L-modeRow2	30–55	逐行对照页图的列、区间开闭、数值及不等式方向	7b1a10f27bbabe7943a3cd3b45aec935c379acdbb13be18e161d974d9cf4e09d
+L-moderateModes	30–55	已核对文中论证的位置、假设、结论与主依赖	eceb7e065ae0f575348c300819591f23c2e37020e08e1267bb4631eb525ed68a
+L-farModes	30–55	已核对文中论证的位置、假设、结论与主依赖	f2ef166b974ae901c267b9ecc401d6881ca2f81bfc0ab7ea46eb12c59b73fbd4
+L-wrongHalfModes	30–55	已核对文中论证的位置、假设、结论与主依赖	5ba8546bfe692703819b71fa7541e0b04a493809b79ab465a1370527d3b724b4
+L-oppositeRow1	30–55	逐行对照页图的列、区间开闭、数值及不等式方向	78f79dfee2866e9c3fba41518ea70e4bb5bce8c12df47b10f50d34cbd73d04e9
+L-oppositeRow2	30–55	逐行对照页图的列、区间开闭、数值及不等式方向	2ecd4675adb10451fddaf73db990f3fdedea235b97a50dc2bb516f5d2ebad87a
+L-otherModesSum	30–55	已核对文中论证的位置、假设、结论与主依赖	214fbf5f983cc869346acdb8705d6aeff18d91efddeb1756d9e7274d962717dd
+L-fubini	30–55	已核对引用出处或标准定理的局部使用条件	b1a9b70a243bc66fcf16b090988449bec682f6d0063560015b4048cf902eb903
+R3.11	30–55	已核对明示量词、参数域、弱/严格不等号及各分命题	5d7c25f21ce38a2984d193930e0886976e77b2c0bd53b561e48127250fc7ac2f
+L-twoColorEuler	30–55	已核对文中论证的位置、假设、结论与主依赖	2643933896dcd11d0a3aae083631c6f10775e5f789714b5f4d85485454b3343d
+E66	30–55	已核对印刷式号、系数、端点、适用条件	6af13efb67c71badb17ef769a85ef138991b8009a817fdc4d5204bcbb4f4ffcb
+E67	30–55	已核对印刷式号、系数、端点、适用条件	19841f030b804ce3e57f9c57bd6b25da404954f27f39c344928169422a426276
+L-besselElementary	30–55	已核对文中论证的位置、假设、结论与主依赖	8d1e9e3f6addd338f6f4f5540b7b3288a46438f9ccf1277ecdd174d9e68fce25
+E68	30–55	已核对印刷式号、系数、端点、适用条件	353470f62e2cafb95a3c0d770feed8689490703e72f20949403d9c7e03169e3c
+L-kernel	30–55	已核对符号域、函数定义及其使用范围	669324c0af99b14c2b5ff2e69652480b27a8e1d70b38ede1529889e37bdb7a79
+L-transform	30–55	已核对符号域、函数定义及其使用范围	80393ea2ee17c3d84505e66a6e423f0dbfe8cd39c90e13750dc228a1fbbf4d6e
+L-besselIntegral	30–55	已核对文中论证的位置、假设、结论与主依赖	d6704b1de14153669a1d7887d1893c6ab946a6f873fdbe6a5885bd1255027974
+L-spherical	30–55	ζ²+τ²=0 以 2y 连续延拓，避免除零	5bdcf2d1dbad6a978a8a8bb3f01e56bc5d23d3d4d56d86daf9c8157f2f1a0a37
+E69	30–55	已核对印刷式号、系数、端点、适用条件	8b776e3023d3f3fb5f438a020a3745bae7446de517736fbfd46763531cb34196
+E70	30–55	已核对印刷式号、系数、端点、适用条件	18e62edd13a1f95de7bb4c138aa80dda2d31f134282991d5328b826cebdad3cc
+L-rhoDelta	30–55	已核对符号域、函数定义及其使用范围	7bbc3a96f53c62038f3414cb6d60a041a9ea88ed5e46c98ec148b0e3d5241fde
+E71	30–55	已核对印刷式号、系数、端点、适用条件	4ad77872a311342a68676fcbeb10d880aeb3c9247702e159f69c0cdc9791340f
+L-deltaPositive	30–55	已核对文中论证的位置、假设、结论与主依赖	cc2c6d2d201dd8bdc2d7bbf4c2a0093636114516e3635b54d71e81d2ec491a51
+E72	30–55	已核对印刷式号、系数、端点、适用条件	310962550bfa1844104f2a5c9f0fd977fd58d4bedbfd2bee325eacc48aef9e17
+L-outerAmp	30–55	已核对符号域、函数定义及其使用范围	6f160603d8a1506e9b49898e14a5fe0c771e03e23b375e8218bd8f77a819d029
+R4.1	30–55	已核对明示量词、参数域、弱/严格不等号及各分命题	773938ef7cdb46177848c6eb625f3a205b396d987c8e11ed007287b5d62bc367
+L-outerScale	30–55	已核对文中论证的位置、假设、结论与主依赖	338fd9631782e560198a6c5f6ab88171e511a67c4dcd3e1b3d0f9b9e7ffbca7a
+L-outerSmallModes	30–55	已核对文中论证的位置、假设、结论与主依赖	b9ddbaf66145949e03c6c56d9cfe1f924039651405387f395fe882d95d19869a
+L-freqHighGap	30–55	已核对文中论证的位置、假设、结论与主依赖	d7cb8261ebfe479be1236afc81aa7f9003a4a4760b324c6f7e9885d09cd91661
+E73	30–55	已补并复核 y>0、u=τ² 和主平方根分支	10d6560fd1af3fc22f4211b474cb4d0b2d1aae92ace5a3dbf76eec03f49454e8
+L-freqHighSum	30–55	已核对文中论证的位置、假设、结论与主依赖	1335c503a5ed066014dfa12722c67b66a496118408a5a8d373f1703f1d3eebf0
+L-outerMonotone	30–55	已核对文中论证的位置、假设、结论与主依赖	bae23b036a608a8e4a29addac44dd69b524118421f71cb5bc1ac438a82acb0ff
+L-outerRow1	30–55	逐行对照页图的列、区间开闭、数值及不等式方向	56db354d893437288705148cf5946b65198d84bb27fe0ba003b077fa6b8a5811
+L-outerRow2	30–55	逐行对照页图的列、区间开闭、数值及不等式方向	e91231aaf4bfa19f08ee2210065f43e82814ff71ffb9e71ab527f750cab69f87
+L-outerRow3	30–55	逐行对照页图的列、区间开闭、数值及不等式方向	6ef989f062ad2cb03b983cf0064fb08a3890f71c8d133c51502616193477469d
+L-outerRow4	30–55	逐行对照页图的列、区间开闭、数值及不等式方向	30a8cd6f770eb5137eec94916bd011bd8d9e586e31e1303c2fcfe1aeeedec31b
+L-outerRow5	30–55	逐行对照页图的列、区间开闭、数值及不等式方向	5a3ec0a9bfa3577c940d2a34962ca4a15c1ab913c38f1884c89d427ec311bfa2
+L-outerRounding	30–55	已核对计算范围、所验对象与未来证明义务	27358dfdc1041dc6ca2f27b7e180b14dc19e3dc7bc2cd977221370e19fffd9fc
+E74	30–55	已核对印刷式号、系数、端点、适用条件	166d645c85546e24bbffd777f1dcc7b791d62f102075006684a69d867c6f3f76
+E75	30–55	已核对印刷式号、系数、端点、适用条件	a5fbc7d82c2f9beac360811635220c65168049b82f07b0e4cbe08833ba55a106
+L-eulerTail	30–55	已核对引用出处或标准定理的局部使用条件	994457d8d6afc96b069c0a5817e5341b2d575f4bf90535ce129888aa6ca2079c
+Z-triple	30–55	已核对符号域、函数定义及其使用范围	c22bbf386d7b7c2e875c2f5710d731d6d1fa8bcf5d2cbcf3357a900cf9f6ae1d
+Z-finiteTripleExpansion	30–55	已核对文中论证的位置、假设、结论与主依赖	18cb19e52d3d358f1292dc585b1a819be2ead8a2e9b248a97089dfd2d5a89a53
+Z-smallY	30–55	已核对文中论证的位置、假设、结论与主依赖	ac411c3492f82367aa75c1c7190d90afa52c14ab9d9e985794a0fc6b11913cdb
+Z-kernelSwap	30–55	已核对文中论证的位置、假设、结论与主依赖	b329beac0f85751d761845463b4030033da755c8f1a13bbcd7296ca8bc5c3442
+Z-negativeExtension	30–55	仅非零延拓项有有限计数，数值误差如原稿	26abe95292b92c9bf17d67668fe64ff26569834b14cfa9b8884e577b12b18c97
+Z-poissonShift	30–55	已核对引用出处或标准定理的局部使用条件	fbaff1fe54902340850ac7e6b327c2d530dec9e0c4cd26444b9bf9af1c34a5ed
+Z-zeroTriple	30–55	已核对文中论证的位置、假设、结论与主依赖	891dea8a0b640551b10e0dd923c2b36d5a3b08b1b0a944e692c884eb34336bda
+Z-weightRatio	30–55	已核对文中论证的位置、假设、结论与主依赖	3c9fa8116a1ea2a150c2deeca502c9690ac33b25c57041ab846fc63f799b6f1f
+Z-eulerProduct	30–55	已核对引用出处或标准定理的局部使用条件	ee793c9271cff176c5edba048ea5ca715e2b747e09a0584a7568e534b615b044
+Z-logProduct	30–55	已核对文中论证的位置、假设、结论与主依赖	eaabf0ae9ab8bee55f3cc0a7cd802f229b9083b9ca9c1c7b486e182725625997
+Z-comparisonB	30–55	已核对符号域、函数定义及其使用范围	95fb6d202d59282ba7a3c1afb758fe0afbf2c4d25275ae75342b16c85f8e0207
+R4.2	30–55	已核对明示量词、参数域、弱/严格不等号及各分命题	8469c6c7a2136c06d2281fac2776d0704889fc8513c6d6d420f8c6d710627233
+Z-besselEnvelope	30–55	已核对文中论证的位置、假设、结论与主依赖	75e2eacf687b2a0b59085c997a0281e0c477605058538bea4da191bb82cf4698
+Z-remainderB	30–55	已核对文中论证的位置、假设、结论与主依赖	cc6e5c56b4f39e8e84dbbac1e2275c04f4dd1a76cc0872535d21765b4221d658
+R4.3	30–55	已核对明示量词、参数域、弱/严格不等号及各分命题	bd02292565bc3da2dff3c88d5b4ce5a36896e93ba440e0b5ed628787e98549a2
+Z-edgeParameters	30–55	已核对文中论证的位置、假设、结论与主依赖	066a0aeaf233f7ccd5a8c26352967aa1894c7538b63eb65df2a8ca5cf6cb9f48
+Z-centralTerm	30–55	已核对文中论证的位置、假设、结论与主依赖	5d816ae5facdc81c455ec95aaa35313b52654b1776baa19b3694a3004ec9eeb2
+Z-gapIdentity	30–55	已核对文中论证的位置、假设、结论与主依赖	64495d115a20bb643921789238b008d953a1cdd11b80bc45c5f7bf61116f05d3
+E76	30–55	已核对印刷式号、系数、端点、适用条件	a7a35af2f9edf8305b0c6bb66710581e15f707bd2b9919b4538eef134abbd5a6
+Z-rightSum	30–55	已核对文中论证的位置、假设、结论与主依赖	f8450a69497d2cf54f382061d88739f6bfd2c3cde957557a217f547051af34c5
+Z-middleSum	30–55	已核对文中论证的位置、假设、结论与主依赖	06ba12623b6c20b234d5da3a4dadc3c4107dcba4a851bd158404f7a7b755ebf4
+Z-squareCase	30–55	tₖ=0 蕴含 k=0、n=m²、p(n,m)=1	1c5316cd0d0271eb3e874e4228d686c72c88a19fa234c4f25173bea7d948cad1
+Z-leftSum	30–55	已核对文中论证的位置、假设、结论与主依赖	b9f96d5b9619dbe4e50587870455467cdc57813ebae9b7ba8883fc2ee905d5da
+R4.4	30–55	首端相位、strict/weak 界、正有序点与开区间不同根全覆盖	df9c1ac02a5f68b1f1fe8791fbf18dd69f8fe9fdbd8702dbed2edc37b3f14c10
+Z-phaseParameters	30–55	第 51 页：核对 ϕ、δ、d* 的定义、主值平方根、δ 的严格单调性，以及相位比较的两边与 h>2π/√3。	bf8eefc55ac26d01a342da6df828ce8278f5763e9d47cc25fd05f4b7d5f42728
+Z-firstInteger	30–55	已核对文中论证的位置、假设、结论与主依赖	5b4e23432fa84bbd67c2e64078e9a31ba4c1a9591d970beeb056b5f7a7980322
+Z-signSequence	30–55	第 51–52 页：核对 t_d、首次命中及其严格上界、两支阈值、全序与变号结论。首次命中使用第 51 页相位比较。	9d4be9ae0cf7c702b7e36f875a00a9a5eb29f73f926af793ab9ff015ef5b7c6b
+Z-phaseComparison	30–55	已核对文中论证的位置、假设、结论与主依赖	f1fef183026faa16dec3cabe68bbc7610a2211f9816b40b19dbcac7fc5e1a7bb
+Z-originSeven	30–55	已核对文中论证的位置、假设、结论与主依赖	b46a93579a87037f9952b464371b8fe15a4c3830f9bd30dcbb6d2d708d167c48
+Z-phaseLadder	30–55	第 53 页：核对 r₋ 的固定取值、r₊ 的来源、两端相位界、连续性、紧集内首次命中、指标范围和严格递增，及由两端与内部各点变号得到的根数。	ecb0ae8141ae12587939267c270a4c9370f9c0a068b7585eab551bee30b01dc9
+Z-largeRoots	30–55	已核对文中论证的位置、假设、结论与主依赖	3f01f531cf29065a3bba3250f4f55c9f27f1d322d8ab102162064cdafc407741
+Z-quotient	30–55	已核对符号域、函数定义及其使用范围	933351c8a0226d661912040c4dc210fd57ecf32aa185f901e309511987283ef8
+Z-smallDegrees	30–55	已核对文中论证的位置、假设、结论与主依赖	5c2858036ba127b9b943698c5927121d9a5b324ea04eb59c7162ea46d1cf64f1
+E77	30–55	串联实际分片验收，不以 Horner 正确性代替见证；m=3 时无相邻对	9f2199463b15698acaeeb47b277a77aa8225446a62fc7a344b3a87f49b0b6bf8
+Z-finiteInference	30–55	第 53–54 页：分别复核 1≤n≤8 的直接论证和 9≤n≤6400 的见证论证，再核对 Dₙ=XQₙ 对零根及整个有限范围的结论。	72b91c5afb32fa623726236bc0c7b2ecb25bc6327e7a21fb7647812f3ba27d1e
+Z-coeffTable	30–55	已核对计算范围、所验对象与未来证明义务	79f8ff857e028c24a003b9094622ca4ee0a331b1680f3799ae9a21499ac37840
+Z-pentagonal	30–55	与 Durfee 递推独立，引用 [3] 推论1.7	e8738da4421f4f5d0025324abae49e7382e22b8a18f97c97fb0cfdf595fe2502
+Z-dyadicWitness	30–55	已核对计算范围、所验对象与未来证明义务	1c54feb5c8c10d62e1d95c8f67efa6be99949b3e85d2ddd305d28a1bd4097622
+Z-crossMultiply	30–55	已核对计算范围、所验对象与未来证明义务	d12ca78b6cb5aaa8dcf1dcda2aa64591c9be4fcb19c392f2b231545142b30513
+Z-checkedWitnesses	30–55	6392 片，各含符号非零及正确、相邻严格次序；系数绑定、无依赖环	8c064971a7889bbf595435b675aaab4f539ec58736de40f9dd280c6499622ac0
+Z-countSign	30–55	用 Python math.isqrt 对 n=1…6400 独立复算 325403	b415b6b3d1f75ecb9a43dd4b2153992f7b2e10f6383c46d8edec76f224e74019
+Z-countOrder	30–55	独立复算 319011，区别原稿未印的具体数	9deaf277039152e937e77eac06ef1603112e5edf8d38ef9f5fba7fec5b90f10d
+Z-countCoeff	30–55	已核对计算范围、所验对象与未来证明义务	f1cfd22e3ff04f78e0cf56036adb3cdb0056b94af4ecca01510a6250ddca3f0b
+Z-finiteCover	30–55	已核对计算范围、所验对象与未来证明义务	259b6b39bad9daabced8dbe86e5d90c55ae7a5854619c1dc226303da77730de6
+Z-mainCombine	30–55	已核对文中论证的位置、假设、结论与主依赖	eed452ff3bd542609685b0c1fd8385d10c4580c7617b1209a39274608a1f9385
+Z-ref1	30–55	已核对参考书目与实际文中引用的作用	2149812bfe9281b8515ec618c0da2a82c514a715f6c71194e622c7fe3497fb45
+Z-ref2	30–55	已核对参考书目与实际文中引用的作用	30ebb7c00093000bde6997f467ae78ef302f38dfe84662c6819903af50762c4f
+Z-ref3	30–55	已核对参考书目与实际文中引用的作用	d1a52e99877c7ddf13e179a288cc989716b08529e782bb2b0c9b830d10e9ee89
+Z-ref4	30–55	已核对参考书目与实际文中引用的作用	aed246736d0f29ba6e9bf961519b8d53b1e03609dedcf417c49c1884f1887387
+Z-ref5	30–55	已核对参考书目与实际文中引用的作用	4f4584695f6ee83677228a554014169ea194b3000841ec778d8c95b23379a8ab
+Z-ref6	30–55	已核对参考书目与实际文中引用的作用	254d5aa7247ea689a6021c8050c8197d7a2701728b2386dc69778657bb555651
+Z-ref7	30–55	已核对参考书目与实际文中引用的作用	0dff993cb78b638490459cbe57a6a1f19475c4a047eec851ea26b0ff5ac6f994
+Z-ref8	30–55	已核对参考书目与实际文中引用的作用	f7f513db25cda231f93cc00b676dee59c666a9b538893390ea036c609a2f86ad
+Z-ref9	30–55	已核对参考书目与实际文中引用的作用	351634756e0db28647131a833cf44f7403868d5acf30e26ad2ae9d7b49ea5fb5
+Z-ref10	30–55	已核对参考书目与实际文中引用的作用	b4aa1fa1cfdf6499f57ff2966a827c3ddb5ce85d3eb815a987ea51a09e2a140a
+Z-ref11	30–55	方差发散下的 CLT/LLT 与对每个众数的距离断言分别定位	67ba2842f1df2a2f1453d8a3f0e6960aa7467a8224dd52c9db6514a02848002d
+Z-ref12	30–55	已核对参考书目与实际文中引用的作用	a4382ea67c5bb1ef72ae1910afa6a9642578b90b4e53e3847fd1484232a34770
+Z-ref13	30–55	已核对参考书目与实际文中引用的作用	c2e25b86ee41ebb9c1e002232607c7a8224a69cd3c02e93ddc784faea06ca383
+Z-ref14	30–55	已核对参考书目与实际文中引用的作用	d756d12f53a7a7cb7fd5975b4031650c862a8aca05d4f58aaabd8c9c32c184f3
+Z-ref15	30–55	已核对参考书目与实际文中引用的作用	b0d2e6c43c72f5bf61a0f617de1f6b08e4ba2d5b2c3b48cf0529d7b45af81942

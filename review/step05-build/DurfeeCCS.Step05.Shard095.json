@@ -1,0 +1,31 @@
+{
+  "module": "DurfeeCCS.Step05.Shard095",
+  "command": [
+    "lake",
+    "--no-cache",
+    "--no-ansi",
+    "build",
+    "DurfeeCCS.Step05.Shard095"
+  ],
+  "toolchain": "Lake version 5.0.0-src+611c117 (Lean version 4.36.0)",
+  "started_utc": "2026-11-23T11:06:21.959036+00:00",
+  "elapsed_seconds": 78.219,
+  "launch_wait_seconds": 0.0,
+  "exit_code": 0,
+  "lake_exit_code": 0,
+  "peak_working_set_bytes": 1940893696,
+  "peak_per_process_working_set_bytes": 1444868096,
+  "memory_samples": 78,
+  "memory_sample_seconds": 1.0,
+  "memory_minimum_available_mib": 7000,
+  "memory_reservation_mib": 2560,
+  "source_sha256": "3ac1bdf9734ae08239e6305c64bab83d6473c9de1511eab56bb0704bdc4abdee",
+  "build_inputs_sha256": "3ce60943e10c614a2b4e6a7af0dc071343d45a54bb46512cf52ed17ff48c0848",
+  "artifact": ".lake/build/lib/lean/DurfeeCCS/Step05/Shard095.olean",
+  "artifact_sha256": "5eab2d26e934c8441a54bf6ab9234e34311b54528a9d4543229e4f4abc222d3d",
+  "artifact_sidecar_sha256": {
+    "Shard095.olean.private": "d659ab4ecf2d9eb9d923fadf67cc36687dd4c23d08b2e70331ea68397c25a549",
+    "Shard095.olean.server": "298e4e6ab8aa6f4da8a17895a4709c4f8c91b5148e986c1c0e9f035e321720df"
+  },
+  "log_sha256": "dbcabe07277798b7a3c9c2b73fe65a51a00d5ab264d76ea33a0ab13661df3cff"
+}

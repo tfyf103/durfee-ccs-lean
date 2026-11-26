@@ -1,0 +1,7 @@
+Step13Axioms.lean:8:8: warning: declaration uses `sorry`
+'DurfeeCCS.p_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Step13Test.kernelChecked' does not depend on any axioms
+'Step13Test.unsafeProof' depends on axioms: [Step13Test.unsupported]
+'Step13Test.placeholderProof' depends on axioms: [sorryAx]
+'Step13Test.uninhabitedLabel' does not depend on any axioms
+Step13Axioms.lean:17:14: error(lean.unknownIdentifier): Unknown constant `Step13Test.missingProof`

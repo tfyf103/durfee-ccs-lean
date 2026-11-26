@@ -1,0 +1,33 @@
+Durfee CCS v28 Step 14. Final frozen source and independent build/replay
+Frozen source commit: fa3aea526f230e0b923522d1212583e24aa3b8ef
+Internal proof-freeze tag: step14-v28
+Baseline paper map commit: 65bdc2e909ee0b1334dc5e9948993ee53e7b4f93
+Lean toolchain: leanprover/lean4:v4.36.0
+Mathlib commit: fc4f59e577feb1a4956671bc04ac18aaaf8cd842
+
+Independent checkout was clean. Only the nine locked dependency caches were copied.
+No project .lake/build directory existed before starting this build.
+
+lake build DurfeeCCS.ReviewAll
+Build completed successfully (9437 jobs).
+Start: 2026-11-25T17:08:02.1597106+08:00
+End: 2026-11-25T17:53:36.5869702+08:00
+Elapsed seconds: 2734.43. Exit code: 0.
+
+lake env leanchecker --fresh DurfeeCCS.ReviewAll
+Start: 2026-11-26T00:18:42.6643140+08:00
+End: 2026-11-26T01:21:54.8084075+08:00
+Elapsed seconds: 3792.14. Exit code: 0.
+Kernel replay includes the transitive import closure of DurfeeCCS.ReviewAll.
+
+Python statement and axiom audit in the independent checkout: exit code 0.
+Manuscript: all 293 mathematical or computation entries pass; 19 historical/reference records.
+Numbered results 17/17, conjecture 1/1, formulae 77/77, table rows 44/44, finite targets 202/202.
+Distinct checked declarations: 1243. Type and axiom commands exit 0. No unexpected axioms.
+Finite archive verification: 100 shards, 6,400 rows, 325,403 sign conditions,
+319,011 ordering conditions, 6,400 partition sums, 211 archived kernel records.
+Checker fixture test: exit 0; all seven expected verdicts observed.
+
+Original manuscript PDF and TeX match their recorded SHA-256 hashes.
+Public build, replay, and audit logs are in review/step14/.
+The manuscript remains external to this reproduction package.

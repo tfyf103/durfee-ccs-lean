@@ -1,0 +1,3 @@
+$ lake --no-cache --no-ansi build DurfeeCCS.FiniteCertificates
+✔ [3650/3651] Built DurfeeCCS.FiniteCertificates (5.7s)
+Build completed successfully (3651 jobs).

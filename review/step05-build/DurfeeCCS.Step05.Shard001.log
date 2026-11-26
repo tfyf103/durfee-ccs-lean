@@ -1,0 +1,3 @@
+$ lake --no-cache --no-ansi build DurfeeCCS.Step05.Shard001
+✔ [3478/3479] Built DurfeeCCS.Step05.Shard001 (6.4s)
+Build completed successfully (3479 jobs).

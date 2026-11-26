@@ -1,0 +1,68 @@
+{
+  "manuscript_rows": 312,
+  "target_rows": 514,
+  "requested_declarations": 1243,
+  "axiom_outputs": 1243,
+  "declaration_types": 1243,
+  "unexpected_axioms": [],
+  "binding_comparison": {
+    "indexed": 312,
+    "finite_inventory": 202
+  },
+  "numbered_results": 17,
+  "conjectures": 1,
+  "formulae": 77,
+  "tables": 44,
+  "step05": {
+    "rows": 6400,
+    "signs": 325403,
+    "orderings": 319011,
+    "partition_sums": 6400,
+    "n_min": 1,
+    "n_max": 6400,
+    "blocks": 100,
+    "kernel_records": 211,
+    "coefficient_columns": 80
+  },
+  "verdicts": {
+    "pass": 495,
+    "reference": 19
+  },
+  "by_kind": {
+    "definition": {
+      "pass": 32
+    },
+    "claim": {
+      "pass": 95
+    },
+    "history": {
+      "reference": 19
+    },
+    "conjecture": {
+      "pass": 1
+    },
+    "citation": {
+      "pass": 14
+    },
+    "result": {
+      "pass": 17
+    },
+    "equation": {
+      "pass": 77
+    },
+    "table": {
+      "pass": 44
+    },
+    "computation": {
+      "pass": 13
+    },
+    "finite": {
+      "pass": 202
+    }
+  },
+  "lean_exit_codes": {
+    "axioms": 0,
+    "types": 0
+  },
+  "unverified_ids": []
+}

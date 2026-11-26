@@ -1,0 +1,28 @@
+{
+  "module": "DurfeeCCS.FiniteCertificateSoundness",
+  "command": [
+    "lake",
+    "--no-cache",
+    "--no-ansi",
+    "build",
+    "DurfeeCCS.FiniteCertificateSoundness"
+  ],
+  "toolchain": "Lake version 5.0.0-src+611c117 (Lean version 4.36.0)",
+  "started_utc": "2026-11-23T10:57:01.623745+00:00",
+  "elapsed_seconds": 13.0,
+  "exit_code": 0,
+  "lake_exit_code": 0,
+  "peak_working_set_bytes": 1158430720,
+  "peak_per_process_working_set_bytes": 659734528,
+  "memory_samples": 13,
+  "memory_sample_seconds": 1.0,
+  "source_sha256": "25f6abfa7591550d3fb5b562e13dbbaab6754974b2820b45c6eab32b8b1bc0d0",
+  "build_inputs_sha256": "4b94f180ff3cad730b1e5d4ce7056b7aa985d8484e049e83aa5cae69774152d3",
+  "artifact": ".lake/build/lib/lean/DurfeeCCS/FiniteCertificateSoundness.olean",
+  "artifact_sha256": "9630aaaa41d03905228379841e92afa63a329fcd5949d72264554d0dd3ca29f6",
+  "artifact_sidecar_sha256": {
+    "FiniteCertificateSoundness.olean.private": "66c6743b10693fc5e71d9a35188a1c9b27cd17183e63dc081dcd95e731c57834",
+    "FiniteCertificateSoundness.olean.server": "87ff1a66e655ce4ea7253c062d9e797113971104a88e90ab98b427667561832d"
+  },
+  "log_sha256": "b2caf2ea2091a03b619e1fde0671551ec24d0e859713d1155144f15e44f64013"
+}

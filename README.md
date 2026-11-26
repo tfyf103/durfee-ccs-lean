@@ -20,15 +20,16 @@ The build checks the Lean proof sources, including the bundled finite certificat
 
 ## Check the source package, coverage and axioms
 
-Use Python 3.10 or newer for these optional checks. The recorded run used Python 3.12.14 and its standard library.
+Use Python 3.10 or newer for these optional checks. The recorded run used Python 3.12.14 and its standard library. The witness data is stored in [part 1](review/step05-witnesses.part01.jsonl) and [part 2](review/step05-witnesses.part02.jsonl). From the repository root, verify the package and join the two parts in order before running the coverage audit. The restored witness file has SHA-256 `57cd7557ee95169632c663a5685c34dcfa78f171f477f2d3975c38b55d1e330c`.
 
 ```sh
 python review/check_package.py
+python -c "from pathlib import Path; p = Path('review'); (p / 'step05-witnesses.jsonl').write_bytes(b''.join((p / f'step05-witnesses.part{i:02d}.jsonl').read_bytes() for i in (1, 2)))"
 python review/check_step13.py --output repro/audit
 python review/generate_step05_certificates.py review/step05-witnesses.jsonl --verify
 ```
 
-The second command needs a completed Lean build. It checks the public manuscript index, the finite certificate inventory, and the types and axiom dependencies of 1,243 Lean declarations. The expected report is 495 passing targets, 19 historical or bibliographic records, and zero unverified targets or unexpected axioms. The allowed axioms are `propext`, `Classical.choice` and `Quot.sound`. The [recorded summary](review/step14/summary.json), [types](review/step14/types.log), and [axiom output](review/step14/axioms.log) are included.
+The coverage audit needs a completed Lean build. It checks the public manuscript index, the finite certificate inventory, and the types and axiom dependencies of 1,243 Lean declarations. The expected report is 495 passing targets, 19 historical or bibliographic records, and zero unverified targets or unexpected axioms. The allowed axioms are `propext`, `Classical.choice` and `Quot.sound`. The [recorded summary](review/step14/summary.json), [types](review/step14/types.log), and [axiom output](review/step14/axioms.log) are included.
 
 The [manuscript hashes](paper/SHA256SUMS) identify the exact PDF and TeX used for the internal source audit. This package contains the [anchor index](review/manuscript-anchors.tsv), so the commands above can run independently of the manuscript files. If you already have both exact originals, pass their containing directory to the audit's manuscript mode.
 

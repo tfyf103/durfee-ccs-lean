@@ -1,0 +1,8 @@
+fixture	expected	observed	problems
+DurfeeCCS.p_one	pass	pass	
+Step13Test.kernelChecked	pass	pass	
+Step13Test.unsafeProof	fail	fail	Step13Test.unsafeProof: disallowed axioms Step13Test.unsupported
+Step13Test.placeholderProof	fail	fail	Step13Test.placeholderProof: disallowed axioms sorryAx
+Step13Test.uninhabitedLabel	fail	fail	primary declaration of numbered conclusion must be a theorem
+Step13Test.missingProof	fail	fail	Step13Test.missingProof: missing axiom output | Step13Test.missingProof: missing declaration/type output | primary declaration of numbered conclusion must be a theorem
+omitted R1.2	invalid	invalid	Review manifest has missing IDs ['R1.2'] and unexpected IDs []

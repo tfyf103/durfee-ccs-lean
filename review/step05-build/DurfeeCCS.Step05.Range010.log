@@ -1,0 +1,31 @@
+$ lake --no-cache --no-ansi build DurfeeCCS.Step05.Range010
+⚠ [3692/3697] Replayed DurfeeCCS.Step05.Columns
+warning: DurfeeCCS/Step05/Columns.lean:585:28: This simp argument is unused:
+  List.forall_mem_cons
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [coefficientColumns, coefficientColumn1_length, coefficientColumn2_length, coefficientColumn3_length,
+    coefficientColumn4_length, coefficientColumn5_length, coefficientColumn6_length, coefficientColumn7_length,
+    coefficientColumn8_length, coefficientColumn9_length, coefficientColumn10_length, coefficientColumn11_length,
+    coefficientColumn12_length, coefficientColumn13_length, coefficientColumn14_length, coefficientColumn15_length,
+    coefficientColumn16_length, coefficientColumn17_length, coefficientColumn18_length, coefficientColumn19_length,
+    coefficientColumn20_length, coefficientColumn21_length, coefficientColumn22_length, coefficientColumn23_length,
+    coefficientColumn24_length, coefficientColumn25_length, coefficientColumn26_length, coefficientColumn27_length,
+    coefficientColumn28_length, coefficientColumn29_length, coefficientColumn30_length, coefficientColumn31_length,
+    coefficientColumn32_length, coefficientColumn33_length, coefficientColumn34_length, coefficientColumn35_length,
+    coefficientColumn36_length, coefficientColumn37_length, coefficientColumn38_length, coefficientColumn39_length,
+    coefficientColumn40_length, coefficientColumn41_length, coefficientColumn42_length, coefficientColumn43_length,
+    coefficientColumn44_length, coefficientColumn45_length, coefficientColumn46_length, coefficientColumn47_length,
+    coefficientColumn48_length, coefficientColumn49_length, coefficientColumn50_length, coefficientColumn51_length,
+    coefficientColumn52_length, coefficientColumn53_length, coefficientColumn54_length, coefficientColumn55_length,
+    coefficientColumn56_length, coefficientColumn57_length, coefficientColumn58_length, coefficientColumn59_length,
+    coefficientColumn60_length, coefficientColumn61_length, coefficientColumn62_length, coefficientColumn63_length,
+    coefficientColumn64_length, coefficientColumn65_length, coefficientColumn66_length, coefficientColumn67_length,
+    coefficientColumn68_length, coefficientColumn69_length, coefficientColumn70_length, coefficientColumn71_length,
+    coefficientColumn72_length, coefficientColumn73_length, coefficientColumn74_length, coefficientColumn75_length,
+    coefficientColumn76_length, coefficientColumn77_length, coefficientColumn78_length, coefficientColumn79_length,
+    coefficientColumn80_length]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [3696/3697] Built DurfeeCCS.Step05.Range010 (13s)
+Build completed successfully (3697 jobs).

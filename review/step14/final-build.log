@@ -1,0 +1,891 @@
+✔ [2884/2919] Built DurfeeCCS.Square (13s)
+✔ [3305/3319] Built DurfeeCCS.Core (11s)
+✔ [3307/3319] Built DurfeeCCS.NegativeTail (9.9s)
+✔ [3308/3331] Built DurfeeCCS.RootCompletion (6.5s)
+✔ [3310/3335] Built DurfeeCCS.Scalars (5.2s)
+✔ [3351/3375] Built DurfeeCCS.Degree (5.1s)
+✔ [3384/3409] Built DurfeeCCS.PartitionForm (5.3s)
+✔ [3618/3649] Built DurfeeCCS.Quotient (5.2s)
+✔ [3633/3661] Built DurfeeCCS.SignRoots (7.2s)
+✔ [3635/3661] Built DurfeeCCS.PartitionTotals (5.4s)
+✔ [3637/3665] Built DurfeeCCS.CertificateCheck (5.3s)
+✔ [3639/3669] Built DurfeeCCS.GeneratingFunction (6.0s)
+✔ [3641/3669] Built DurfeeCCS.RootAssembly (5.6s)
+✔ [3643/3673] Built DurfeeCCS.EquationOne (5.4s)
+✔ [3645/3673] Built DurfeeCCS.FiniteRoots (6.1s)
+✔ [3646/3673] Built DurfeeCCS.Step05.CoeffData01 (17s)
+✔ [3647/3677] Built DurfeeCCS.CoefficientCertificate (5.9s)
+✔ [3648/3677] Built DurfeeCCS.Step05.CoeffData02 (18s)
+✔ [3649/3677] Built DurfeeCCS.CoefficientDP (5.1s)
+✔ [3655/3681] Built DurfeeCCS.Samples (5.1s)
+✔ [3656/3681] Built DurfeeCCS.Step05.CoeffData03 (16s)
+✔ [3658/3681] Built DurfeeCCS.FiniteCertificateSoundness (5.4s)
+✔ [3661/3681] Built DurfeeCCS.Step05.CoeffData04 (15s)
+✔ [3663/3685] Built DurfeeCCS.Step05.CoeffData05 (13s)
+✔ [3664/3685] Built DurfeeCCS.NineRoots (5.3s)
+✔ [3666/3685] Built DurfeeCCS.Step05.CoeffCheck01 (30s)
+✔ [3668/3685] Built DurfeeCCS.Step05.CoeffCheck02 (30s)
+✔ [3669/3685] Built DurfeeCCS.DyadicWitnesses (5.1s)
+✔ [3673/3689] Built DurfeeCCS.Step05.CoeffData06 (11s)
+✔ [3674/3689] Built DurfeeCCS.Step05.CoeffCheck03 (29s)
+✔ [3677/3689] Built DurfeeCCS.Step05.CoeffCheck04 (28s)
+✔ [3678/3689] Built DurfeeCCS.FiniteCertificates (5.0s)
+✔ [3681/3693] Built DurfeeCCS.Step05.CoeffData07 (9.4s)
+✔ [3683/3693] Built DurfeeCCS.Step05.CoeffCheck05 (27s)
+✔ [3685/3697] Built DurfeeCCS.Step05.CoeffData08 (6.5s)
+✔ [3687/3703] Built DurfeeCCS.Step05.CoeffData09 (4.2s)
+✔ [3689/3707] Built DurfeeCCS.Step05.CoeffCheck06 (28s)
+✔ [3691/3707] Built DurfeeCCS.Step05.CoeffCheck07 (28s)
+✔ [3693/3707] Built DurfeeCCS.Step05.CoeffData10 (1.6s)
+✔ [3695/3711] Built DurfeeCCS.Step05.CoeffCheck08 (28s)
+✔ [3697/3711] Built DurfeeCCS.Step05.Shard000 (5.6s)
+✔ [3699/3715] Built DurfeeCCS.Step05.Shard001 (6.0s)
+✔ [3701/3719] Built DurfeeCCS.Step05.CoeffCheck09 (25s)
+✔ [3703/3723] Built DurfeeCCS.Step05.Shard002 (6.2s)
+✔ [3705/3727] Built DurfeeCCS.Step05.Shard003 (6.2s)
+✔ [3707/3731] Built DurfeeCCS.Step05.Shard004 (6.7s)
+✔ [3709/3735] Built DurfeeCCS.Step05.Shard005 (7.2s)
+✔ [3711/3735] Built DurfeeCCS.Step05.CoeffCheck10 (21s)
+✔ [3713/3739] Built DurfeeCCS.Step05.Shard006 (6.0s)
+⚠ [3714/3743] Built DurfeeCCS.Step05.Columns (7.3s)
+warning: DurfeeCCS/Step05/Columns.lean:585:28: This simp argument is unused:
+  List.forall_mem_cons
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [coefficientColumns, coefficientColumn1_length, coefficientColumn2_length, coefficientColumn3_length,
+    coefficientColumn4_length, coefficientColumn5_length, coefficientColumn6_length, coefficientColumn7_length,
+    coefficientColumn8_length, coefficientColumn9_length, coefficientColumn10_length, coefficientColumn11_length,
+    coefficientColumn12_length, coefficientColumn13_length, coefficientColumn14_length, coefficientColumn15_length,
+    coefficientColumn16_length, coefficientColumn17_length, coefficientColumn18_length, coefficientColumn19_length,
+    coefficientColumn20_length, coefficientColumn21_length, coefficientColumn22_length, coefficientColumn23_length,
+    coefficientColumn24_length, coefficientColumn25_length, coefficientColumn26_length, coefficientColumn27_length,
+    coefficientColumn28_length, coefficientColumn29_length, coefficientColumn30_length, coefficientColumn31_length,
+    coefficientColumn32_length, coefficientColumn33_length, coefficientColumn34_length, coefficientColumn35_length,
+    coefficientColumn36_length, coefficientColumn37_length, coefficientColumn38_length, coefficientColumn39_length,
+    coefficientColumn40_length, coefficientColumn41_length, coefficientColumn42_length, coefficientColumn43_length,
+    coefficientColumn44_length, coefficientColumn45_length, coefficientColumn46_length, coefficientColumn47_length,
+    coefficientColumn48_length, coefficientColumn49_length, coefficientColumn50_length, coefficientColumn51_length,
+    coefficientColumn52_length, coefficientColumn53_length, coefficientColumn54_length, coefficientColumn55_length,
+    coefficientColumn56_length, coefficientColumn57_length, coefficientColumn58_length, coefficientColumn59_length,
+    coefficientColumn60_length, coefficientColumn61_length, coefficientColumn62_length, coefficientColumn63_length,
+    coefficientColumn64_length, coefficientColumn65_length, coefficientColumn66_length, coefficientColumn67_length,
+    coefficientColumn68_length, coefficientColumn69_length, coefficientColumn70_length, coefficientColumn71_length,
+    coefficientColumn72_length, coefficientColumn73_length, coefficientColumn74_length, coefficientColumn75_length,
+    coefficientColumn76_length, coefficientColumn77_length, coefficientColumn78_length, coefficientColumn79_length,
+    coefficientColumn80_length]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [3717/3743] Built DurfeeCCS.Step05.Shard007 (8.3s)
+✔ [3718/3747] Built DurfeeCCS.Step05.Shard008 (8.4s)
+✔ [3719/3747] Built DurfeeCCS.Step05.Shard009 (8.0s)
+✔ [3720/3747] Built DurfeeCCS.Step05.Range006 (8.8s)
+✔ [3721/3747] Built DurfeeCCS.Step05.Range005 (8.0s)
+✔ [3722/3747] Built DurfeeCCS.Step05.Range004 (7.9s)
+✔ [3723/3747] Built DurfeeCCS.Step05.Range003 (7.6s)
+✔ [3724/3747] Built DurfeeCCS.Step05.Range002 (7.2s)
+✔ [3733/3751] Built DurfeeCCS.Step05.Range000 (6.0s)
+✔ [3734/3751] Built DurfeeCCS.Step05.Range001 (6.3s)
+✔ [3736/3751] Built DurfeeCCS.Step05.Shard010 (7.6s)
+✔ [3738/3751] Built DurfeeCCS.Step05.Range007 (7.9s)
+✔ [3741/3755] Built DurfeeCCS.Step05.Range008 (8.2s)
+✔ [3743/3755] Built DurfeeCCS.Step05.Range009 (8.3s)
+✔ [3745/3759] Built DurfeeCCS.Step05.Shard011 (8.2s)
+✔ [3747/3759] Built DurfeeCCS.Step05.Range010 (8.6s)
+✔ [3749/3763] Built DurfeeCCS.Step05.Shard012 (8.4s)
+✔ [3751/3763] Built DurfeeCCS.Step05.Range011 (8.8s)
+✔ [3753/3767] Built DurfeeCCS.Step05.Shard013 (8.6s)
+✔ [3755/3767] Built DurfeeCCS.Step05.Shard014 (9.1s)
+✔ [3756/3771] Built DurfeeCCS.Step05.Range012 (9.4s)
+✔ [3759/3771] Built DurfeeCCS.Step05.Shard015 (9.4s)
+✔ [3760/3775] Built DurfeeCCS.Step05.Range013 (9.5s)
+✔ [3763/3775] Built DurfeeCCS.Step05.Range014 (10s)
+✔ [3764/3775] Built DurfeeCCS.Step05.Shard016 (9.9s)
+✔ [3767/3779] Built DurfeeCCS.Step05.Range015 (10s)
+✔ [3769/3783] Built DurfeeCCS.Step05.Shard017 (10s)
+✔ [3771/3783] Built DurfeeCCS.Step05.Shard018 (10s)
+✔ [3772/3787] Built DurfeeCCS.Step05.Range016 (10s)
+✔ [3775/3787] Built DurfeeCCS.Step05.Shard019 (11s)
+✔ [3776/3791] Built DurfeeCCS.Step05.Range017 (10s)
+✔ [3779/3791] Built DurfeeCCS.Step05.Range018 (10s)
+✔ [3781/3795] Built DurfeeCCS.Step05.Shard020 (11s)
+✔ [3783/3795] Built DurfeeCCS.Step05.Range019 (11s)
+✔ [3785/3799] Built DurfeeCCS.Step05.Shard021 (11s)
+✔ [3787/3799] Built DurfeeCCS.Step05.Shard022 (12s)
+✔ [3788/3803] Built DurfeeCCS.Step05.Range020 (11s)
+✔ [3791/3803] Built DurfeeCCS.Step05.Shard023 (12s)
+✔ [3792/3807] Built DurfeeCCS.Step05.Range021 (12s)
+✔ [3795/3807] Built DurfeeCCS.Step05.Range022 (12s)
+✔ [3797/3811] Built DurfeeCCS.Step05.Shard024 (12s)
+✔ [3799/3811] Built DurfeeCCS.Step05.Range023 (12s)
+✔ [3801/3815] Built DurfeeCCS.Step05.Shard025 (13s)
+✔ [3803/3815] Built DurfeeCCS.Step05.Shard026 (13s)
+✔ [3804/3819] Built DurfeeCCS.Step05.Range024 (12s)
+✔ [3807/3819] Built DurfeeCCS.Step05.Shard027 (13s)
+✔ [3808/3823] Built DurfeeCCS.Step05.Range025 (12s)
+✔ [3811/3823] Built DurfeeCCS.Step05.Range026 (13s)
+✔ [3813/3827] Built DurfeeCCS.Step05.Shard028 (13s)
+✔ [3815/3827] Built DurfeeCCS.Step05.Range027 (14s)
+✔ [3817/3831] Built DurfeeCCS.Step05.Shard029 (14s)
+✔ [3819/3831] Built DurfeeCCS.Step05.Shard030 (14s)
+✔ [3820/3835] Built DurfeeCCS.Step05.Range028 (14s)
+✔ [3823/3835] Built DurfeeCCS.Step05.Shard031 (14s)
+✔ [3824/3839] Built DurfeeCCS.Step05.Range029 (14s)
+✔ [3827/3839] Built DurfeeCCS.Step05.Range030 (15s)
+✔ [3828/3839] Built DurfeeCCS.Step05.Shard032 (18s)
+✔ [3831/3843] Built DurfeeCCS.Step05.Range031 (18s)
+✔ [3833/3847] Built DurfeeCCS.Step05.Shard033 (19s)
+✔ [3835/3847] Built DurfeeCCS.Step05.Shard034 (19s)
+✔ [3836/3851] Built DurfeeCCS.Step05.Range032 (18s)
+✔ [3839/3851] Built DurfeeCCS.Step05.Shard035 (19s)
+✔ [3840/3855] Built DurfeeCCS.Step05.Range033 (18s)
+✔ [3843/3855] Built DurfeeCCS.Step05.Range034 (18s)
+✔ [3845/3859] Built DurfeeCCS.Step05.Shard036 (20s)
+✔ [3847/3859] Built DurfeeCCS.Step05.Range035 (19s)
+✔ [3849/3863] Built DurfeeCCS.Step05.Shard037 (20s)
+✔ [3851/3863] Built DurfeeCCS.Step05.Shard038 (20s)
+✔ [3852/3867] Built DurfeeCCS.Step05.Range036 (19s)
+✔ [3855/3867] Built DurfeeCCS.Step05.Shard039 (22s)
+✔ [3856/3867] Built DurfeeCCS.Step05.Range037 (19s)
+✔ [3859/3871] Built DurfeeCCS.Step05.Range038 (20s)
+✔ [3861/3875] Built DurfeeCCS.Step05.Shard040 (22s)
+✔ [3863/3875] Built DurfeeCCS.Step05.Range039 (21s)
+✔ [3865/3879] Built DurfeeCCS.Step05.Shard041 (22s)
+✔ [3867/3879] Built DurfeeCCS.Step05.Shard042 (22s)
+✔ [3868/3883] Built DurfeeCCS.Step05.Range040 (21s)
+✔ [3871/3883] Built DurfeeCCS.Step05.Shard043 (23s)
+✔ [3872/3887] Built DurfeeCCS.Step05.Range041 (21s)
+✔ [3875/3887] Built DurfeeCCS.Step05.Range042 (22s)
+✔ [3877/3891] Built DurfeeCCS.Step05.Shard044 (23s)
+✔ [3879/3891] Built DurfeeCCS.Step05.Range043 (22s)
+✔ [3881/3895] Built DurfeeCCS.Step05.Shard045 (24s)
+✔ [3883/3895] Built DurfeeCCS.Step05.Shard046 (24s)
+✔ [3884/3899] Built DurfeeCCS.Step05.Range044 (23s)
+✔ [3887/3899] Built DurfeeCCS.Step05.Shard047 (24s)
+✔ [3888/3903] Built DurfeeCCS.Step05.Range045 (23s)
+✔ [3891/3903] Built DurfeeCCS.Step05.Range046 (24s)
+✔ [3893/3907] Built DurfeeCCS.Step05.Shard048 (25s)
+✔ [3895/3907] Built DurfeeCCS.Step05.Range047 (24s)
+✔ [3897/3911] Built DurfeeCCS.Step05.Shard049 (26s)
+✔ [3899/3911] Built DurfeeCCS.Step05.Shard050 (26s)
+✔ [3900/3915] Built DurfeeCCS.Step05.Range048 (24s)
+✔ [3903/3915] Built DurfeeCCS.Step05.Shard051 (26s)
+✔ [3904/3919] Built DurfeeCCS.Step05.Range049 (25s)
+✔ [3907/3919] Built DurfeeCCS.Step05.Range050 (25s)
+✔ [3909/3923] Built DurfeeCCS.Step05.Shard052 (27s)
+✔ [3911/3923] Built DurfeeCCS.Step05.Range051 (26s)
+✔ [3913/3927] Built DurfeeCCS.Step05.Shard053 (28s)
+✔ [3915/3927] Built DurfeeCCS.Step05.Shard054 (29s)
+✔ [3916/3931] Built DurfeeCCS.Step05.Range052 (26s)
+✔ [3919/3931] Built DurfeeCCS.Step05.Shard055 (28s)
+✔ [3920/3935] Built DurfeeCCS.Step05.Range053 (26s)
+✔ [3923/3935] Built DurfeeCCS.Step05.Range054 (27s)
+✔ [3925/3939] Built DurfeeCCS.Step05.Shard056 (29s)
+✔ [3927/3939] Built DurfeeCCS.Step05.Range055 (29s)
+✔ [3929/3943] Built DurfeeCCS.Step05.Shard057 (30s)
+✔ [3931/3943] Built DurfeeCCS.Step05.Shard058 (30s)
+✔ [3932/3947] Built DurfeeCCS.Step05.Range056 (29s)
+✔ [3935/3947] Built DurfeeCCS.Step05.Shard059 (30s)
+✔ [3936/3951] Built DurfeeCCS.Step05.Range057 (29s)
+✔ [3939/3951] Built DurfeeCCS.Step05.Range058 (29s)
+✔ [3941/3955] Built DurfeeCCS.Step05.Shard060 (31s)
+✔ [3943/3955] Built DurfeeCCS.Step05.Range059 (29s)
+✔ [3945/3959] Built DurfeeCCS.Step05.Shard061 (30s)
+✔ [3947/3959] Built DurfeeCCS.Step05.Shard062 (32s)
+✔ [3948/3963] Built DurfeeCCS.Step05.Range060 (30s)
+✔ [3951/3963] Built DurfeeCCS.Step05.Shard063 (31s)
+✔ [3952/3967] Built DurfeeCCS.Step05.Range061 (30s)
+✔ [3955/3967] Built DurfeeCCS.Step05.Range062 (30s)
+✔ [3957/3971] Built DurfeeCCS.Step05.Shard064 (32s)
+✔ [3959/3971] Built DurfeeCCS.Step05.Range063 (31s)
+✔ [3961/3975] Built DurfeeCCS.Step05.Shard065 (32s)
+✔ [3963/3975] Built DurfeeCCS.Step05.Shard066 (32s)
+✔ [3964/3979] Built DurfeeCCS.Step05.Range064 (30s)
+✔ [3967/3979] Built DurfeeCCS.Step05.Shard067 (31s)
+✔ [3968/3983] Built DurfeeCCS.Step05.Range065 (31s)
+✔ [3971/3983] Built DurfeeCCS.Step05.Range066 (31s)
+✔ [3973/3987] Built DurfeeCCS.Step05.Shard068 (31s)
+✔ [3975/3987] Built DurfeeCCS.Step05.Range067 (30s)
+✔ [3977/3991] Built DurfeeCCS.Step05.Shard069 (31s)
+✔ [3979/3991] Built DurfeeCCS.Step05.Shard070 (32s)
+✔ [3980/3995] Built DurfeeCCS.Step05.Range068 (30s)
+✔ [3983/3995] Built DurfeeCCS.Step05.Shard071 (33s)
+✔ [3984/3999] Built DurfeeCCS.Step05.Range069 (32s)
+✔ [3987/3999] Built DurfeeCCS.Step05.Range070 (32s)
+✔ [3989/4003] Built DurfeeCCS.Step05.Shard072 (37s)
+✔ [3991/4003] Built DurfeeCCS.Step05.Range071 (34s)
+✔ [3993/4007] Built DurfeeCCS.Step05.Shard073 (36s)
+✔ [3995/4007] Built DurfeeCCS.Step05.Shard074 (36s)
+✔ [3996/4011] Built DurfeeCCS.Step05.Range072 (33s)
+✔ [3999/4011] Built DurfeeCCS.Step05.Shard075 (36s)
+✔ [4000/4011] Built DurfeeCCS.Step05.Range073 (34s)
+✔ [4003/4015] Built DurfeeCCS.Step05.Range074 (33s)
+✔ [4005/4019] Built DurfeeCCS.Step05.Shard076 (37s)
+✔ [4007/4019] Built DurfeeCCS.Step05.Range075 (34s)
+✔ [4009/4023] Built DurfeeCCS.Step05.Shard077 (36s)
+✔ [4011/4023] Built DurfeeCCS.Step05.Shard078 (36s)
+✔ [4012/4027] Built DurfeeCCS.Step05.Range076 (34s)
+✔ [4015/4027] Built DurfeeCCS.Step05.Shard079 (38s)
+✔ [4016/4031] Built DurfeeCCS.Step05.Range077 (33s)
+✔ [4019/4031] Built DurfeeCCS.Step05.Range078 (34s)
+✔ [4021/4035] Built DurfeeCCS.Step05.Shard080 (38s)
+✔ [4023/4035] Built DurfeeCCS.Step05.Range079 (35s)
+✔ [4025/4039] Built DurfeeCCS.Step05.Shard081 (38s)
+✔ [4027/4039] Built DurfeeCCS.Step05.Shard082 (38s)
+✔ [4028/4043] Built DurfeeCCS.Step05.Range080 (36s)
+✔ [4031/4043] Built DurfeeCCS.Step05.Shard083 (38s)
+✔ [4032/4047] Built DurfeeCCS.Step05.Range081 (35s)
+✔ [4035/4047] Built DurfeeCCS.Step05.Range082 (36s)
+✔ [4037/4051] Built DurfeeCCS.Step05.Shard084 (39s)
+✔ [4039/4051] Built DurfeeCCS.Step05.Range083 (38s)
+✔ [4041/4055] Built DurfeeCCS.Step05.Shard085 (40s)
+✔ [4043/4055] Built DurfeeCCS.Step05.Shard086 (40s)
+✔ [4044/4059] Built DurfeeCCS.Step05.Range084 (37s)
+✔ [4047/4059] Built DurfeeCCS.Step05.Shard087 (40s)
+✔ [4048/4063] Built DurfeeCCS.Step05.Range085 (39s)
+✔ [4051/4063] Built DurfeeCCS.Step05.Range086 (38s)
+✔ [4053/4067] Built DurfeeCCS.Step05.Shard088 (43s)
+✔ [4055/4067] Built DurfeeCCS.Step05.Range087 (39s)
+✔ [4057/4071] Built DurfeeCCS.Step05.Shard089 (41s)
+✔ [4059/4071] Built DurfeeCCS.Step05.Shard090 (44s)
+✔ [4060/4071] Built DurfeeCCS.Step05.Range088 (39s)
+✔ [4063/4075] Built DurfeeCCS.Step05.Shard091 (41s)
+✔ [4064/4075] Built DurfeeCCS.Step05.Range089 (39s)
+✔ [4067/4079] Built DurfeeCCS.Step05.Range090 (39s)
+✔ [4069/4083] Built DurfeeCCS.Step05.Shard092 (41s)
+✔ [4071/4083] Built DurfeeCCS.Step05.Range091 (39s)
+✔ [4073/4087] Built DurfeeCCS.Step05.Shard093 (42s)
+✔ [4075/4087] Built DurfeeCCS.Step05.Shard094 (42s)
+✔ [4076/4091] Built DurfeeCCS.Step05.Range092 (39s)
+✔ [4079/4091] Built DurfeeCCS.Step05.Shard095 (39s)
+✔ [4080/4095] Built DurfeeCCS.Step05.Range093 (35s)
+✔ [4083/4095] Built DurfeeCCS.Step05.Range094 (36s)
+✔ [4084/4095] Built DurfeeCCS.Step05.Shard096 (39s)
+✔ [4087/4099] Built DurfeeCCS.Step05.Range095 (36s)
+✔ [4089/4105] Built DurfeeCCS.Step05.Shard097 (39s)
+✔ [4091/4105] Built DurfeeCCS.Step05.Shard098 (42s)
+✔ [4092/4105] Built DurfeeCCS.Step05.Range096 (40s)
+✔ [4095/4105] Built DurfeeCCS.Step05.Shard099 (40s)
+✔ [4097/4105] Built DurfeeCCS.Step05.Range097 (36s)
+✔ [4433/4457] Built DurfeeCCS.Step05.Range098 (37s)
+✔ [4833/4855] Built DurfeeCCS.Step06.Branches (6.8s)
+✔ [4835/4855] Built DurfeeCCS.Step06.GeneratingAnalytic (7.2s)
+✔ [5625/5659] Built DurfeeCCS.Step05.Range099 (38s)
+✔ [6095/6129] Built DurfeeCCS.Step05.All (4.9s)
+✔ [6306/6339] Built DurfeeCCS.Step06.AngleCoefficients (10s)
+✔ [6315/6339] Built DurfeeCCS.Step06.PairedProduct (10s)
+✔ [6316/6339] Built DurfeeCCS.Step06.ThetaProduct (10s)
+✔ [6323/6341] Built DurfeeCCS.Step06.DurfeeAngle (5.8s)
+✔ [6355/6369] Built DurfeeCCS.Step06.PairedAngle (6.3s)
+✔ [6361/6389] Built DurfeeCCS.Step06.EulerConstantTerm (6.2s)
+✔ [6929/6951] Built DurfeeCCS.Step06.DurfeePairedAngle (5.9s)
+✔ [7265/7317] Built DurfeeCCS.Step06.BesselSeries (5.5s)
+✔ [7274/7317] Built DurfeeCCS.Step06.Dilog (8.0s)
+✔ [7275/7317] Built DurfeeCCS.Step06.Bessel (6.0s)
+✔ [7278/7317] Built DurfeeCCS.Step06.BesselIntegrals (7.1s)
+✔ [7288/7317] Built DurfeeCCS.Step06.BesselDerivative (6.2s)
+✔ [7586/7617] Built DurfeeCCS.Step06.Saddle (6.6s)
+✔ [7589/7617] Built DurfeeCCS.Step06.Nemes (7.5s)
+✔ [7595/7617] Built DurfeeCCS.Step06.Dedekind (6.4s)
+✔ [7609/7627] Built DurfeeCCS.Step06.TwoColour (6.5s)
+✔ [7611/7627] Built DurfeeCCS.Step06.SaddleComponents (7.6s)
+✔ [7612/7627] Built DurfeeCCS.Step07.TrigonometricBounds (6.9s)
+✔ [7615/7627] Built DurfeeCCS.Step07.ElementaryBounds (7.2s)
+✔ [7617/7627] Built DurfeeCCS.Step06.Theta (9.7s)
+✔ [7619/7627] Built DurfeeCCS.Step06.Rademacher (6.4s)
+✔ [7670/7699] Built DurfeeCCS.Step06.RademacherGenerating (8.2s)
+✔ [7672/7701] Built DurfeeCCS.Step07.ThetaBoundsIntervals (4.7s)
+✔ [7677/7701] Built DurfeeCCS.Step07.FirstSaddleRadiusBound (9.5s)
+✔ [7680/7707] Built DurfeeCCS.Step07.SqrtInterval (5.4s)
+✔ [7683/7709] Built DurfeeCCS.Step06 (6.7s)
+✔ [7684/7709] Built DurfeeCCS.Step07.MidSaddleTable (12s)
+ℹ [7685/7709] Built DurfeeCCS.Step07.SaddleEndpoints (16s)
+info: DurfeeCCS/Step07/SaddleEndpoints.lean:183:4: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+✔ [7689/7713] Built DurfeeCCS.Step07.SaddleMonotone (7.5s)
+✔ [7691/7713] Built DurfeeCCS.Step07.PowerDecay (6.4s)
+✔ [7693/7713] Built DurfeeCCS.Step07.FirstSaddleErrors (9.1s)
+✔ [7694/7717] Built DurfeeCCS.Step07.MidSaddleTableActual (7.0s)
+⚠ [7697/7721] Built DurfeeCCS.Step07.SaddleEndpointGrid (12s)
+warning: DurfeeCCS/Step07/SaddleEndpointGrid.lean:243:29: This simp argument is unused:
+  Rat.cast_natCast
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [saddleEndpointData, Matrix.cons_val_zero', Matrix.cons_val_succ', Rat.cast_ofScientific,
+    Rat.cast_ofNat]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [7699/7721] Built DurfeeCCS.Step07.SaddleGlobalMonotone (7.5s)
+✔ [7701/7725] Built DurfeeCCS.Step07.FirstSaddleArcTable (7.6s)
+✔ [7703/7725] Built DurfeeCCS.Step07.OuterTable (7.1s)
+✔ [7704/7725] Built DurfeeCCS.Step07.MidSaddleTableGrid (55s)
+✔ [7707/7729] Built DurfeeCCS.Step07.FirstSaddleErrorTable (8.7s)
+✔ [7708/7733] Built DurfeeCCS.Step07.ThetaBounds (9.0s)
+✔ [7710/7737] Built DurfeeCCS.Step07.OuterTableMonotone (8.8s)
+✔ [7713/7737] Built DurfeeCCS.Step07.MidSaddleTableGridSound (10s)
+✔ [7714/7737] Built DurfeeCCS.Step07.FirstSaddleRanges (7.2s)
+✔ [7716/7737] Built DurfeeCCS.Step07.MidSaddleTail (10s)
+✔ [7719/7741] Built DurfeeCCS.Step07.ThetaFinite (7.9s)
+✔ [7720/7741] Built DurfeeCCS.Step07.ThetaBoundsTail (7.4s)
+✔ [7723/7741] Built DurfeeCCS.Step07.MidSaddleTableConnections (8.1s)
+✔ [7724/7741] Built DurfeeCCS.Step08.NearOriginDefs (6.1s)
+✔ [7726/7741] Built DurfeeCCS.Step07.ThetaRadiusRows (6.2s)
+✔ [7727/7743] Built DurfeeCCS.Step07.MidSaddleTailRows (10s)
+✔ [7731/7743] Built DurfeeCCS.Step07.ThetaFiniteGaussian (8.8s)
+✔ [7732/7743] Built DurfeeCCS.Step08.NearOriginBudget (7.1s)
+✔ [7734/7747] Built DurfeeCCS.Step07.ThetaTailRadius (8.2s)
+✔ [7737/7759] Built DurfeeCCS.Step08.ContourSplit (6.1s)
+✔ [7741/7763] Built DurfeeCCS.Step07.ThetaAllRadiusRows (6.9s)
+✔ [7745/7767] Built DurfeeCCS.Step08.AngularMeans (7.0s)
+ℹ [7749/7767] Built DurfeeCCS.Step08.NearOriginLaplace (7.1s)
+info: DurfeeCCS/Step08/NearOriginLaplace.lean:205:4: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+✔ [7751/7767] Built DurfeeCCS.Step07 (6.2s)
+✔ [7752/7767] Built DurfeeCCS.Step08.GeometricArcMean (6.0s)
+✔ [7755/7773] Built DurfeeCCS.Step08.ExpRemainder (6.6s)
+✔ [7757/7773] Built DurfeeCCS.Step08.MidpointLogSeries (7.1s)
+⚠ [7759/7773] Built DurfeeCCS.Step08.SaddleNormalization (7.7s)
+warning: DurfeeCCS/Step08/SaddleNormalization.lean:184:61: Unused tactic linter: `<;>` can be removed.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step08/SaddleNormalization.lean:184:65: Unused tactic linter: `ring` is never executed.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step08/SaddleNormalization.lean:185:40: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step08/SaddleNormalization.lean:184:65: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: DurfeeCCS/Step08/SaddleNormalization.lean:185:40: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+✔ [7761/7773] Built DurfeeCCS.Step08.PhaseGapIntegral (7.2s)
+✔ [7763/7773] Built DurfeeCCS.Step08.AngularErrors (6.6s)
+✔ [7765/7775] Built DurfeeCCS.Step08.PhaseGapParameters (8.4s)
+✔ [7766/7775] Built DurfeeCCS.Step08.LogArcMean (7.1s)
+✔ [7769/7781] Built DurfeeCCS.Step08.SaddleAssembly (6.9s)
+✔ [7771/7789] Built DurfeeCCS.Step08.PhaseGapComponents (7.2s)
+ℹ [7773/7795] Built DurfeeCCS.Step08.ModelAngular (7.2s)
+info: DurfeeCCS/Step08/ModelAngular.lean:59:2: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+info: DurfeeCCS/Step08/ModelAngular.lean:108:4: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+info: DurfeeCCS/Step08/ModelAngular.lean:128:4: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+info: DurfeeCCS/Step08/ModelAngular.lean:143:4: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+✔ [7775/7795] Built DurfeeCCS.Step08.BesselConvolution (7.7s)
+✔ [7777/7795] Built DurfeeCCS.Step08.SaddleBesselAverage (7.5s)
+ℹ [7779/7795] Built DurfeeCCS.Step08.SaddleFourier (7.2s)
+info: DurfeeCCS/Step08/SaddleFourier.lean:55:2: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+✔ [7781/7807] Built DurfeeCCS.Step08.VerticalTail (6.9s)
+✔ [7783/7807] Built DurfeeCCS.Step08.NearOriginModelSeries (6.1s)
+✔ [7787/7809] Built DurfeeCCS.Step08.SaddleExponentialMean (6.0s)
+✔ [7791/7825] Built DurfeeCCS.Step08.NearOriginSinh (7.3s)
+✔ [7792/7825] Built DurfeeCCS.Step08.NearOriginModelIntegral (7.7s)
+✔ [7795/7825] Built DurfeeCCS.Step08.NearOriginSigns (9.6s)
+✔ [7797/7831] Built DurfeeCCS.Step08.PhaseGap (7.7s)
+✔ [7799/7831] Built DurfeeCCS.Step08.NearOriginErrors (8.5s)
+✔ [7801/7833] Built DurfeeCCS.Step08.PhaseGapEndpoint (6.0s)
+✔ [7803/7833] Built DurfeeCCS.Step08.SaddleModelIntegral (7.6s)
+✔ [7805/7833] Built DurfeeCCS.Step08.MidpointMainArc (6.3s)
+✔ [7807/7839] Built DurfeeCCS.Step08.NearOriginGaussian (7.9s)
+✔ [7809/7839] Built DurfeeCCS.Step08.FirstSaddleSubregions (8.4s)
+✔ [7811/7839] Built DurfeeCCS.Step08.SaddleOuterArc (7.7s)
+✔ [7812/7839] Built DurfeeCCS.Step08.MidpointMainArcRescale (7.2s)
+✔ [7815/7847] Built DurfeeCCS.Step08.MidpointRule (8.1s)
+✔ [7816/7849] Built DurfeeCCS.Step08.NearOriginArcBasics (7.2s)
+✔ [7819/7849] Built DurfeeCCS.Step08.DurfeeContour (7.0s)
+✔ [7820/7849] Built DurfeeCCS.Step08.MidpointSinh (7.3s)
+✔ [7821/7849] Built DurfeeCCS.Step08.MidpointRay (7.6s)
+✔ [7823/7855] Built DurfeeCCS.Step08.NearOriginOuterBounds (8.3s)
+✔ [7827/7855] Built DurfeeCCS.Step08.NearOriginMiddleBounds (7.0s)
+✔ [7828/7855] Built DurfeeCCS.Step08.NearOriginArcBounds (7.4s)
+⚠ [7829/7855] Built DurfeeCCS.Step08.MinorArcEnvelope (7.4s)
+warning: DurfeeCCS/Step08/MinorArcEnvelope.lean:141:43: This simp argument is unused:
+  Real.volume_Icc
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [t, integral_const, Real.toNNReal_of_nonneg, sub_neg_eq_add, show 0 ≤ Real.pi + Real.pi by positivity,
+    smul_eq_mul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: DurfeeCCS/Step08/MinorArcEnvelope.lean:141:60: This simp argument is unused:
+  Real.toNNReal_of_nonneg
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [t, integral_const, Real.volume_Icc, sub_neg_eq_add, show 0 ≤ Real.pi + Real.pi by positivity,
+    smul_eq_mul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: DurfeeCCS/Step08/MinorArcEnvelope.lean:154:73: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step08/MinorArcEnvelope.lean:155:41: Unused tactic linter: `<;>` can be removed.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step08/MinorArcEnvelope.lean:155:45: Unused tactic linter: `ring` is never executed.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step08/MinorArcEnvelope.lean:155:45: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: DurfeeCCS/Step08/MinorArcEnvelope.lean:154:73: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+✔ [7830/7855] Built DurfeeCCS.Step08.FirstSaddleCommonArc (5.0s)
+✔ [7834/7855] Built DurfeeCCS.Step08.MidpointUniform (7.6s)
+✔ [7836/7861] Built DurfeeCCS.Step08.MidpointRectangle (7.5s)
+✔ [7839/7861] Built DurfeeCCS.Step08.MidpointMainArcCaseOne (9.5s)
+✔ [7841/7861] Built DurfeeCCS.Step08.MinorArcSeries (7.3s)
+✔ [7842/7861] Built DurfeeCCS.Step08.NearOriginMiddleEstimate (7.0s)
+✔ [7845/7865] Built DurfeeCCS.Step08.MinorArcGeometry (7.2s)
+✔ [7846/7865] Built DurfeeCCS.Step08.FirstSaddleMajorBound (8.7s)
+✔ [7848/7869] Built DurfeeCCS.Step08.MinorArcLogBounds (7.7s)
+✔ [7851/7869] Built DurfeeCCS.Step08.NearOriginContour (8.2s)
+✔ [7853/7869] Built DurfeeCCS.Step08.SaddleBesselJacobian (7.3s)
+ℹ [7854/7869] Built DurfeeCCS.Step08.SaddleBesselLaplace (7.3s)
+info: DurfeeCCS/Step08/SaddleBesselLaplace.lean:89:6: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+info: DurfeeCCS/Step08/SaddleBesselLaplace.lean:107:6: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+info: DurfeeCCS/Step08/SaddleBesselLaplace.lean:154:4: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+✔ [7857/7873] Built DurfeeCCS.Step08.SaddleBesselRadicals (7.3s)
+✔ [7859/7873] Built DurfeeCCS.Step08.MinorArcSine (7.8s)
+✔ [7861/7873] Built DurfeeCCS.Step08.MinorArcPi (6.5s)
+✔ [7862/7873] Built DurfeeCCS.Step08.NearOriginApproximation (7.6s)
+✔ [7865/7887] Built DurfeeCCS.Step08.SaddleBesselCentral (7.5s)
+✔ [7867/7887] Built DurfeeCCS.Step08.SaddleBesselCutoff (8.6s)
+✔ [7869/7891] Built DurfeeCCS.Step08.SaddleBesselModel (7.4s)
+✔ [7871/7891] Built DurfeeCCS.Step08.MinorArcLargeRadius (7.0s)
+✔ [7873/7897] Built DurfeeCCS.Step08.SaddleMinorArc (7.3s)
+✔ [7875/7901] Built DurfeeCCS.Step08.PhaseGapExpansion (8.9s)
+✔ [7877/7901] Built DurfeeCCS.Step08.SaddleStrictBounds (8.1s)
+✔ [7878/7907] Built DurfeeCCS.Step08.PhaseGapCentral (6.5s)
+✔ [7881/7913] Built DurfeeCCS.Step09.MidPhase (7.4s)
+✔ [7883/7913] Built DurfeeCCS.Step09.MidPoissonLattice (7.0s)
+✔ [7884/7913] Built DurfeeCCS.Step09.MidPhaseSymmetry (6.8s)
+ℹ [7885/7913] Built DurfeeCCS.Step08.SaddleBesselEstimate (8.2s)
+info: DurfeeCCS/Step08/SaddleBesselEstimate.lean:263:2: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+✔ [7889/7913] Built DurfeeCCS.Step09.MidPoissonGaussian (7.9s)
+✔ [7891/7913] Built DurfeeCCS.Step09.MidEndpointSeries (6.6s)
+✔ [7892/7921] Built DurfeeCCS.Step09.MidPoissonProduct (7.7s)
+⚠ [7895/7921] Built DurfeeCCS.Step09.MidPhaseDerivatives (7.6s)
+warning: DurfeeCCS/Step09/MidPhaseDerivatives.lean:166:66: This simp argument is unused:
+  zero_mul
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [← Complex.ofReal_pow, Complex.normSq_apply, Complex.mul_re, Complex.mul_im, Complex.sub_re,
+    Complex.sub_im, Complex.add_re, Complex.add_im, Complex.ofReal_re, Complex.ofReal_im, Complex.one_re,
+    Complex.one_im, Complex.I_re, Complex.I_im, mul_zero, mul_one, zero_add, add_zero, sub_zero, zero_sub]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [7896/7921] Built DurfeeCCS.Step08.SaddleBesselApproximation (6.7s)
+✔ [7899/7921] Built DurfeeCCS.Step09.MidPoisson (7.8s)
+✔ [7900/7921] Built DurfeeCCS.Step09.MidMinorGeometric (6.9s)
+✔ [7902/7921] Built DurfeeCCS.Step09.MidPhaseCurvature (7.8s)
+✔ [7905/7925] Built DurfeeCCS.Step09.MidPhaseShape (7.4s)
+✔ [7907/7925] Built DurfeeCCS.Step08.FirstSaddleProof (7.2s)
+✔ [7909/7925] Built DurfeeCCS.Step09.MidMinorEnvelope (7.4s)
+✔ [7911/7931] Built DurfeeCCS.Step09.MidRepresentation (7.0s)
+✔ [7913/7937] Built DurfeeCCS.Step09.MidMultiplierRadius (8.3s)
+✔ [7917/7937] Built DurfeeCCS.Step08.FirstSaddlePhaseSign (6.4s)
+⚠ [7919/7937] Built DurfeeCCS.Step09.MidMinorGrid (8.4s)
+warning: DurfeeCCS/Step09/MidMinorGrid.lean:70:62: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidMinorGrid.lean:70:62: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+✔ [7921/7937] Built DurfeeCCS.Step09.MidMajorContinuity (7.2s)
+✔ [7923/7945] Built DurfeeCCS.Step09.MidMajorGaussian (6.7s)
+✔ [7925/7947] Built DurfeeCCS.Step09.MidMajorEtaBudget (6.7s)
+✔ [7927/7947] Built DurfeeCCS.Step08 (5.7s)
+✔ [7929/7947] Built DurfeeCCS.Step09.MidMinorUniform (6.7s)
+✔ [7931/7953] Built DurfeeCCS.Step09.MidMajorLocal (6.8s)
+✔ [7933/7953] Built DurfeeCCS.Step09.MidPoissonEuler (7.8s)
+✔ [7935/7953] Built DurfeeCCS.Step09.MidMajorWeight (8.3s)
+⚠ [7937/7953] Built DurfeeCCS.Step09.MidMultiplierRay (7.0s)
+warning: DurfeeCCS/Step09/MidMultiplierRay.lean:26:4: This simp argument is unused:
+  Complex.re_mul_ofReal
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [Complex.sub_re, Complex.sub_im, Complex.one_re, Complex.one_im, Complex.im_mul_ofReal,
+    Complex.mul_re, Complex.mul_im, Complex.ofReal_re, Complex.ofReal_im, Complex.exp_ofReal_mul_I_re,
+    Complex.exp_ofReal_mul_I_im, zero_mul, add_zero, sub_zero, zero_sub]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: DurfeeCCS/Step09/MidMultiplierRay.lean:26:27: This simp argument is unused:
+  Complex.im_mul_ofReal
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [Complex.sub_re, Complex.sub_im, Complex.one_re, Complex.one_im, Complex.re_mul_ofReal,
+    Complex.mul_re, Complex.mul_im, Complex.ofReal_re, Complex.ofReal_im, Complex.exp_ofReal_mul_I_re,
+    Complex.exp_ofReal_mul_I_im, zero_mul, add_zero, sub_zero, zero_sub]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: DurfeeCCS/Step09/MidMultiplierRay.lean:43:5: Variable name `ht` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _ht
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: DurfeeCCS/Step09/MidMultiplierRay.lean:43:18: Variable name `hh` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hh
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+✔ [7939/7953] Built DurfeeCCS.Step09.MidPhaseQuartic (7.0s)
+✔ [7941/7971] Built DurfeeCCS.Step09.MidMultiplierEuler (8.0s)
+✔ [7943/7987] Built DurfeeCCS.Step09.MidMajorIntegral (7.0s)
+✔ [7945/7991] Built DurfeeCCS.Step09.MidModelBase (7.5s)
+✔ [7947/7991] Built DurfeeCCS.Step09.MidMultiplierUniform (8.7s)
+✔ [7949/7991] Built DurfeeCCS.Step09.MidMinorBudget (8.1s)
+✔ [7950/7991] Built DurfeeCCS.Step09.MidContourDefs (7.1s)
+✔ [7951/7997] Built DurfeeCCS.Step09.MidGaussianModel (7.7s)
+✔ [7955/7997] Built DurfeeCCS.Step09.MidModelDerivative (7.5s)
+✔ [7956/7997] Built DurfeeCCS.Step09.MidOtherGaussian (8.2s)
+✔ [7957/7997] Built DurfeeCCS.Step09.MidMultiplierConj (7.9s)
+✔ [7958/7997] Built DurfeeCCS.Step09.MidMajorCentral (8.7s)
+✔ [7962/7997] Built DurfeeCCS.Step09.MidMajorTail (8.4s)
+✔ [7965/7997] Built DurfeeCCS.Step09.MidMultiplierLocal (8.1s)
+⚠ [7966/7997] Built DurfeeCCS.Step09.MidMinorProductClipping (7.0s)
+warning: DurfeeCCS/Step09/MidMinorProductClipping.lean:197:55: Variable name `ht` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _ht
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+✔ [7967/7997] Built DurfeeCCS.Step09.MidModelDecay (7.4s)
+✔ [7970/7999] Built DurfeeCCS.Step09.MidMinorContour (7.4s)
+✔ [7973/7999] Built DurfeeCCS.Step09.MidContourSymmetry (6.7s)
+✔ [7974/7999] Built DurfeeCCS.Step09.MidMajorGaussianComparison (7.3s)
+✔ [7977/8003] Built DurfeeCCS.Step09.MidMinorProductFourier (6.2s)
+✔ [7979/8011] Built DurfeeCCS.Step09.MidModelParts (6.0s)
+✔ [7981/8011] Built DurfeeCCS.Step09.MidModelLaplace (7.4s)
+⚠ [7983/8015] Built DurfeeCCS.Step09.MidOtherPhase (9.5s)
+warning: DurfeeCCS/Step09/MidOtherPhase.lean:161:6: Unused tactic linter: `<;>` can be removed.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherPhase.lean:161:10: Unused tactic linter: `ring` is never executed.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherPhase.lean:161:10: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+⚠ [7985/8015] Built DurfeeCCS.Step09.MidOtherDecay (7.9s)
+warning: DurfeeCCS/Step09/MidOtherDecay.lean:44:35: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherDecay.lean:44:35: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: DurfeeCCS/Step09/MidOtherDecay.lean:69:30: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherDecay.lean:69:30: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: DurfeeCCS/Step09/MidOtherDecay.lean:143:65: Variable name `ha` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _ha
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: DurfeeCCS/Step09/MidOtherDecay.lean:254:30: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherDecay.lean:254:30: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+✔ [7986/8015] Built DurfeeCCS.Step09.MidMinorProof (6.0s)
+✔ [7989/8015] Built DurfeeCCS.Step09.MidModelTails (6.6s)
+✔ [7991/8015] Built DurfeeCCS.Step09.MidOtherLattice (8.0s)
+✔ [7993/8015] Built DurfeeCCS.Step09.MidModelFourierPaper (6.2s)
+✔ [7994/8029] Built DurfeeCCS.Step09.MidModelSeries (7.7s)
+✔ [7997/8029] Built DurfeeCCS.Step09.MidOtherOpposite (8.7s)
+⚠ [7998/8031] Built DurfeeCCS.Step09.MidOtherModeBounds (9.8s)
+warning: DurfeeCCS/Step09/MidOtherModeBounds.lean:54:54: This simp argument is unused:
+  ← Complex.ofReal_pow
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [w, modeSquare, Complex.mul_re, Complex.mul_im]
+
+Note: Simp arguments with `←` have the additional effect of removing the other direction from the simp set, even if the simp argument itself is unused. If the hint above does not work, try replacing `←` with `-` to only get that effect and silence this warning.
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [8001/8033] Built DurfeeCCS.Step09.MidPoissonVertical (6.6s)
+✔ [8003/8033] Built DurfeeCCS.Step09.MidModelJ (6.8s)
+✔ [8005/8037] Built DurfeeCCS.Step09.MidContributionNorm (7.2s)
+✔ [8007/8037] Built DurfeeCCS.Step09.MidSaddleLimit (7.9s)
+⚠ [8009/8037] Built DurfeeCCS.Step09.MidSaddleMonotone (6.9s)
+warning: DurfeeCCS/Step09/MidSaddleMonotone.lean:43:15: This simp argument is unused:
+  zero_mul
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [Complex.add_re, Complex.add_im, Complex.one_re, Complex.one_im, Complex.mul_re, Complex.mul_im,
+    Complex.ofReal_re, Complex.ofReal_im, Complex.I_re, Complex.I_im, mul_zero, mul_one, sub_zero, add_zero, zero_add]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [8011/8037] Built DurfeeCCS.Step09.MidOtherIntegrals (8.5s)
+warning: DurfeeCCS/Step09/MidOtherIntegrals.lean:150:24: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherIntegrals.lean:150:24: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+✔ [8013/8037] Built DurfeeCCS.Step09.MidContour (7.4s)
+✔ [8015/8037] Built DurfeeCCS.Step09.MidSaddleRange (8.0s)
+✔ [8016/8037] Built DurfeeCCS.Step09.MidMajorAssemble (9.3s)
+⚠ [8019/8041] Built DurfeeCCS.Step09.MidOtherNear (8.2s)
+warning: DurfeeCCS/Step09/MidOtherNear.lean:47:20: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherNear.lean:47:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: DurfeeCCS/Step09/MidOtherNear.lean:58:20: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherNear.lean:58:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: DurfeeCCS/Step09/MidOtherNear.lean:98:23: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherNear.lean:127:25: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherNear.lean:169:25: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step09/MidOtherNear.lean:98:23: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: DurfeeCCS/Step09/MidOtherNear.lean:127:25: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: DurfeeCCS/Step09/MidOtherNear.lean:169:25: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+✔ [8021/8041] Built DurfeeCCS.Step09.MidErrorAssembly (7.4s)
+✔ [8027/8045] Built DurfeeCCS.Step09.MidMajorProof (7.7s)
+✔ [8200/8229] Built DurfeeCCS.Step09.MidOtherSums (7.7s)
+✔ [8302/8323] Built DurfeeCCS.Step09.MidNonprincipalContour (7.9s)
+✔ [8927/8961] Built DurfeeCCS.Step09.MidOtherProof (8.8s)
+✔ [8987/8999] Built DurfeeCCS.Step10.OuterBesselKernel (7.3s)
+✔ [8988/9009] Built DurfeeCCS.Step09.MidProof (8.1s)
+✔ [8991/9009] Built DurfeeCCS.Step10.OuterFarData (6.3s)
+✔ [8992/9011] Built DurfeeCCS.Step10.OuterCoeffData (16s)
+✔ [8995/9013] Built DurfeeCCS.Step10.OuterEulerTail (9.7s)
+✔ [8997/9015] Built DurfeeCCS.Step09.MidRangeOverlap (7.3s)
+✔ [8999/9015] Built DurfeeCCS.Step10.OuterRho (6.5s)
+✔ [9001/9015] Built DurfeeCCS.Step10.OuterDelta (8.6s)
+✔ [9003/9015] Built DurfeeCCS.Step10.OuterRoots (5.3s)
+✔ [9005/9017] Built DurfeeCCS.Step09 (6.0s)
+✔ [9007/9027] Built DurfeeCCS.Step10.OuterFarCoefficients (6.8s)
+✔ [9009/9031] Built DurfeeCCS.Step10.OuterPhase (8.6s)
+✔ [9011/9031] Built DurfeeCCS.Step10.OuterGeometryBounds (9.5s)
+✔ [9013/9037] Built DurfeeCCS.Step10.OuterErrorEndpoints (8.7s)
+✔ [9015/9045] Built DurfeeCCS.Step10.OuterErrorLattice (8.6s)
+✔ [9017/9045] Built DurfeeCCS.Step10.OuterSamples (7.0s)
+✔ [9019/9045] Built DurfeeCCS.Step10.OuterBesselEndpoints (7.2s)
+✔ [9021/9045] Built DurfeeCCS.Step10.OuterBesselPoisson (7.9s)
+✔ [9023/9051] Built DurfeeCCS.Step10.OuterBesselWeight (7.9s)
+✔ [9025/9057] Built DurfeeCCS.Step10.OuterErrorModes (12s)
+✔ [9027/9061] Built DurfeeCCS.Step10.OuterBesselSphere (7.9s)
+✔ [9029/9061] Built DurfeeCCS.Step10.OuterErrorNormalize (8.8s)
+✔ [9031/9065] Built DurfeeCCS.Step10.OuterBesselTransform (6.7s)
+✔ [9033/9065] Built DurfeeCCS.Step10.OuterFarParameters (14s)
+⚠ [9035/9067] Built DurfeeCCS.Step10.OuterCoeffGamma (9.3s)
+warning: DurfeeCCS/Step10/OuterCoeffGamma.lean:89:6: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step10/OuterCoeffGamma.lean:89:6: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+✔ [9037/9067] Built DurfeeCCS.Step10.OuterSigns (9.2s)
+✔ [9039/9067] Built DurfeeCCS.Step10.OuterErrorHigh (9.4s)
+⚠ [9040/9067] Built DurfeeCCS.Step10.OuterCoeffBessel (8.4s)
+warning: DurfeeCCS/Step10/OuterCoeffBessel.lean:41:4: Unused tactic linter: `change ‖besselITerm m k (x : ℂ)‖ = (besselITerm m k (x : ℂ)).re` does not change the goal.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+✔ [9041/9067] Built DurfeeCCS.Step10.OuterFarNumerics (7.5s)
+✔ [9044/9067] Built DurfeeCCS.Step10.OuterFarGaps (12s)
+⚠ [9047/9069] Built DurfeeCCS.Step10.OuterCoeffSmall (9.4s)
+warning: DurfeeCCS/Step10/OuterCoeffSmall.lean:136:11: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step10/OuterCoeffSmall.lean:140:11: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step10/OuterCoeffSmall.lean:136:11: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: DurfeeCCS/Step10/OuterCoeffSmall.lean:140:11: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [9049/9071] Built DurfeeCCS.Step10.OuterCoeffBounds (9.6s)
+warning: DurfeeCCS/Step10/OuterCoeffBounds.lean:125:29: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step10/OuterCoeffBounds.lean:125:29: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: DurfeeCCS/Step10/OuterCoeffBounds.lean:293:89: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step10/OuterCoeffBounds.lean:293:89: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+✔ [9050/9071] Built DurfeeCCS.Step10.OuterReplacement (9.4s)
+✔ [9051/9071] Built DurfeeCCS.Step10.OuterErrorSum (8.0s)
+⚠ [9053/9071] Built DurfeeCCS.Step10.OuterCoeffRademacher (9.4s)
+warning: DurfeeCCS/Step10/OuterCoeffRademacher.lean:38:2: Unused tactic linter: `<;>` can be replaced with `;`.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: DurfeeCCS/Step10/OuterCoeffRademacher.lean:38:2: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+✔ [9056/9075] Built DurfeeCCS.Step10.OuterFarSmallBounds (9.1s)
+✔ [9059/9075] Built DurfeeCCS.Step06.RademacherExactModular (8.0s)
+✔ [9061/9075] Built DurfeeCCS.Step10.OuterFarCentral (14s)
+✔ [9064/9087] Built DurfeeCCS.Step06.RademacherExactPolar (6.7s)
+✔ [9067/9087] Built DurfeeCCS.Step10.OuterErrorTransfer (7.3s)
+✔ [9069/9087] Built DurfeeCCS.Step10.OuterFiniteExpansionData (9.2s)
+✔ [9073/9089] Built DurfeeCCS.Step10.OuterFarDominance (10s)
+✔ [9075/9089] Built DurfeeCCS.Step10.OuterCoeffElementary (9.7s)
+✔ [9077/9097] Built DurfeeCCS.Step06.RademacherExactBounds (10s)
+✔ [9079/9101] Built DurfeeCCS.Step06.RademacherExactArc (7.9s)
+✔ [9081/9101] Built DurfeeCCS.Step10.OuterEulerWeightFinite (7.4s)
+✔ [9083/9101] Built DurfeeCCS.Step10.OuterEulerWeightLog (9.8s)
+✔ [9085/9111] Built DurfeeCCS.Step06.RademacherExactEstimate (8.5s)
+✔ [9087/9111] Built DurfeeCCS.Step10.OuterExpansion (8.8s)
+✔ [9088/9111] Built DurfeeCCS.Step10.OuterCoeff (7.2s)
+✔ [9091/9111] Built DurfeeCCS.Step10.OuterEulerWeight (8.1s)
+✔ [9093/9111] Built DurfeeCCS.Step10.OuterPreprocessing (7.2s)
+✔ [9094/9111] Built DurfeeCCS.Step10.OuterPreprocessingGeom (6.0s)
+✔ [9097/9115] Built DurfeeCCS.Step10.OuterFiniteExpansion (8.8s)
+✔ [9099/9115] Built DurfeeCCS.Step10.OuterFar (7.5s)
+✔ [9101/9115] Built DurfeeCCS.Step10.OuterEulerWeightFiniteProduct (8.5s)
+✔ [9103/9127] Built DurfeeCCS.Step10.OuterPreprocessingSwapTerms (8.1s)
+✔ [9105/9131] Built DurfeeCCS.Step10.OuterPreprocessingParams (7.5s)
+✔ [9107/9131] Built DurfeeCCS.Step10.OuterBesselBounds (6.5s)
+ℹ [9109/9131] Built DurfeeCCS.Step10.OuterApproximation (9.6s)
+info: DurfeeCCS/Step10/OuterApproximation.lean:82:4: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+✔ [9111/9131] Built DurfeeCCS.Step10.OuterResults (8.5s)
+✔ [9113/9135] Built DurfeeCCS.Step10.OuterPreprocessingBudget (8.1s)
+✔ [9115/9137] Built DurfeeCCS.Step10.OuterRhoDelta (8.2s)
+✔ [9116/9137] Built DurfeeCCS.Step10.OuterPreprocessingExtensionLattice (7.6s)
+✔ [9118/9143] Built DurfeeCCS.Step10.OuterPreprocessingSwap (7.4s)
+✔ [9121/9149] Built DurfeeCCS.Step10.OuterPreprocessingSmall (8.3s)
+✔ [9123/9149] Built DurfeeCCS.Step11.NearOriginSigned (4.2s)
+✔ [9125/9149] Built DurfeeCCS.Step11.ThreeIntervals (4.6s)
+✔ [9127/9149] Built DurfeeCCS.Step11.Factorization (4.6s)
+✔ [9128/9149] Built DurfeeCCS.Step10.OuterPreprocessingExtension (7.9s)
+✔ [9131/9153] Built DurfeeCCS.Step11.RootData (4.7s)
+✔ [9133/9157] Built DurfeeCCS.Step11.PhaseLadder (7.7s)
+✔ [9152/9195] Built DurfeeCCS.Step11.NearOrigin (8.3s)
+✔ [9255/9295] Built DurfeeCCS.Step10.OuterPreprocessingSwapSigned (6.6s)
+✔ [9261/9295] Built DurfeeCCS.Step12.CentralLimitChar (6.3s)
+✔ [9285/9335] Built DurfeeCCS.Step12.Bernoulli (6.3s)
+✔ [9339/9387] Built DurfeeCCS.Step10.OuterComplete (7.6s)
+✔ [9342/9389] Built DurfeeCCS.Step12.BernoulliChar (6.2s)
+✔ [9345/9389] Built DurfeeCCS.Step12.LocalLimitBounds (6.4s)
+✔ [9346/9389] Built DurfeeCCS.Step12.LocalLimitFourier (6.5s)
+✔ [9347/9391] Built DurfeeCCS.Step10 (6.3s)
+✔ [9352/9393] Built DurfeeCCS.Step11.OuterEndpoint (7.9s)
+✔ [9355/9393] Built DurfeeCCS.Step13.Conventions (5.0s)
+✔ [9357/9395] Built DurfeeCCS.Step13.FiniteCounts (4.0s)
+✔ [9359/9395] Built DurfeeCCS.Step12.LocalLimit (5.8s)
+✔ [9360/9397] Built DurfeeCCS.Step13.EulerRearrangement (8.9s)
+✔ [9363/9397] Built DurfeeCCS.Step13.NearOriginAudit (6.6s)
+✔ [9364/9397] Built DurfeeCCS.Step12.CentralLimit (5.0s)
+✔ [9367/9399] Built DurfeeCCS.Step11.Large (6.4s)
+✔ [9369/9399] Built DurfeeCCS.Step13.SaddleAudit (7.5s)
+✔ [9371/9407] Built DurfeeCCS.Step14.Bromwich (6.6s)
+✔ [9375/9407] Built DurfeeCCS.Step14.Hankel (6.5s)
+✔ [9377/9407] Built DurfeeCCS.Main (6.8s)
+✔ [9379/9411] Built DurfeeCCS.Step14.PentagonalPartition (7.4s)
+✔ [9380/9413] Built DurfeeCCS.Step14.PentagonalAnalytic (7.8s)
+✔ [9383/9413] Built DurfeeCCS.Step12.FiniteLaw (7.6s)
+✔ [9385/9415] Built DurfeeCCS.Step12.LogConcavity (8.1s)
+✔ [9386/9415] Built DurfeeCCS.Step14.RademacherDedekind (6.8s)
+✔ [9389/9421] Built DurfeeCCS.Step14.Pentagonal (8.5s)
+✔ [9390/9421] Built DurfeeCCS.Step12.LatticeLaw (7.4s)
+✔ [9393/9421] Built DurfeeCCS.Step14.RademacherContour (7.7s)
+✔ [9395/9421] Built DurfeeCCS.Step12.Probability (7.0s)
+✔ [9396/9421] Built DurfeeCCS.Step14.RademacherPolarCompletion (7.8s)
+✔ [9397/9421] Built DurfeeCCS.Step14.RademacherMultiplier (8.5s)
+✔ [9401/9421] Built DurfeeCCS.Step14.RademacherNonpolar (7.0s)
+✔ [9403/9429] Built DurfeeCCS.Step12.Mode (8.4s)
+✔ [9404/9429] Built DurfeeCCS.Step12.Newton (8.7s)
+✔ [9408/9437] Built DurfeeCCS.Step12.CentralLimitDurfee (7.6s)
+✔ [9410/9437] Built DurfeeCCS.Step14.RademacherCuspSplit (7.0s)
+✔ [9412/9437] Built DurfeeCCS.Step14.RademacherFarey (7.5s)
+✔ [9414/9437] Built DurfeeCCS.Step12.ModeConsequences (7.5s)
+✔ [9416/9437] Built DurfeeCCS.Step12.LocalLimitDurfee (7.0s)
+✔ [9417/9437] Built DurfeeCCS.Step14.TailMonotonicity (7.7s)
+✔ [9419/9437] Built DurfeeCCS.Step14.RademacherAssembly (6.9s)
+✔ [9422/9437] Built DurfeeCCS.Step14.RademacherFordPath (7.8s)
+✔ [9424/9437] Built DurfeeCCS.Step14.RademacherFareyChain (9.3s)
+✔ [9426/9437] Built DurfeeCCS.Step12 (7.4s)
+✔ [9428/9437] Built DurfeeCCS.Step14.RademacherChainContour (8.1s)
+✔ [9430/9437] Built DurfeeCCS.Step14.RademacherIndexing (8.3s)
+✔ [9432/9437] Built DurfeeCCS (7.2s)
+✔ [9434/9437] Built DurfeeCCS.Step14.RademacherIdentity (6.6s)
+✔ [9436/9437] Built DurfeeCCS.ReviewAll (7.0s)
+Build completed successfully (9437 jobs).
